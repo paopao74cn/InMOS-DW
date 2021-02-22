@@ -3,17 +3,18 @@ title: "DaveWave: Collaborative Gravity Wave Research"
 featured_image: '/images/gravity_waves_big.jpg'
 description: "An international consortium working on improving our understanding and representation of gravity waves"
 ---
-Welcome to the DataWave project. 
 
-## Project's Goals
+Atmospheric gravity waves (GWs) play an important role in the exchange of momentumbetween the Earth’s surface and the free atmosphere. Uncertainties in gravity wave momentum transport limit our ability to predict the response of the tropospheric and stratospheric circulation to global warming and impact subseasonal-to-seasonal forecasts. Current state-of-the-art parameterizations are severely limited by computational necessity and the scarcity of observations. 
 
-The goals of the project are:
-1. first
-2. second
-3. third
+The DataWave project is focused on improving our modeling capability for gravity waves and the large scale circulation, and particularly to lead to novel observationally constrained and data-driven gravity wave parameterization schemes. 
 
-### sub goal
-And also to do this
+## Main Objectives 
 
-## Project's timeline
-the timeline of the project is from now to later
+#### Observation Database
+The first objective is to make available a potentially tranformational data source from Loon LLC with unprecedented, high-resolution observations of atmospheric conditions across thousands of balloon flights. 
+
+#### Machine Learning
+The second objective is to use machine learning to develop one- and three- dimensional data-driven gravity wave parametrizations to more accurately and efficiently represent gravity wave momentum fluxes. 
+
+#### Task Leaders
+You can read more about how the tasks were split up on our [objectives page][https://datawaveproject.github.io/objectives] and learn about the leaders of each task on our [team page][https://datawaveproject.github.io/team].
