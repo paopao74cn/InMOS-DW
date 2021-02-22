@@ -7,7 +7,7 @@ theme="ananke"
   # In most cases you will only want to use either one of these. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
   google_analytics_id = "G-C7R59RGNK9"
   google_tag_manager_id = ""
-   
+
  [params.team]
     summary_large_truncate = 120  # How many characters to include in the summary of the team bios (large layout) before truncating
     
@@ -18,10 +18,10 @@ theme="ananke"
   #  url = "/objectives/"
   #    weight = 1
 
-  #[[menu.main]]
-  #    name = "Team"
-  #    url = "/team/"
-  #    weight = 2
+  [[menu.main]]
+      name = "Team"
+      url = "/team/"
+      weight = 2
       
    #[[menu.main]]
     #  name = "Jobs"
