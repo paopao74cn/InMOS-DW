@@ -6,7 +6,7 @@ image: "images/team/Brian_Green.jpg"
 jobtitle: "Post Doc"
 linkedinurl: "https://www.linkedin.com/"
 promoted: true
-weight: 1
+weight: 3
 ---
 
 Post doc working under Professor Sheshadri

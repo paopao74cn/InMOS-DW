@@ -6,7 +6,7 @@ image: "images/team/Marshall_Borrus.jpg"
 jobtitle: "Project Admin and Research Assistant"
 linkedinurl: "https://www.linkedin.com/marshall-borrus"
 promoted: false
-weight: 1
+weight: 5
 ---
 
 Project administrator and research assistant to Professor Sheshadri at Stanford. 
