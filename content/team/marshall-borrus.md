@@ -1,7 +1,7 @@
 ---
 title: "Marshall Borrus"
 date: 2021-02-22T14:29:00+10:00
-draft: true
+draft: false
 image: "static/images/team/Marshall_Borrus.jpg"
 jobtitle: "Project Admin and Research Assistant"
 linkedinurl: "https://www.linkedin.com/marshall-borrus"

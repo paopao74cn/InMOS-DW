@@ -1,8 +1,8 @@
 ---
-title: "Peter Van Eijk"
-date: 2018-11-19T10:47:58+10:00
+title: "Zac Espinosa"
+date: 2020-02-22T16:00:58+10:00
 draft: false
-image: "images/team/peter-van-eijk-711986-unsplash.jpg"
+image: "images/team/Zac_Espinosa.jpg"
 jobtitle: "Director"
 linkedinurl: "https://www.linkedin.com/"
 promoted: true
