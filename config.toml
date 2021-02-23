@@ -10,7 +10,7 @@ theme="ananke"
 
  [params.team]
     summary_large_truncate = 120  # How many characters to include in the summary of the team bios (large layout) before truncating
-    
+
 [menu]
   # Main Menu
   #[[menu.main]]
@@ -22,11 +22,11 @@ theme="ananke"
       name = "Team"
       url = "/team/"
       weight = 2
-      
-   #[[menu.main]]
-    #  name = "Jobs"
-     # url = "/jobs/"
-      #weight = 3
+
+   [[menu.main]]
+    name = "Team Test"
+    url = "/TheTeam/"
+    weight = 3
 
   # Footer Menu
   [[menu.footer]]
@@ -34,7 +34,7 @@ theme="ananke"
     url = "/"
       weight = 1
 
-  [[menu.footer]]
-    name = "Contact"
-    url = "/contact/"
-      weight = 2
+  #[[menu.footer]]
+  #  name = "Contact"
+  #  url = "/contact/"
+  #    weight = 2
