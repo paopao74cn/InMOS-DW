@@ -1,48 +1,35 @@
 ---
-title: 'Team'
-intro_image: "/images/gravity_waves_big.jpg"
+title: "The Team"
 featured_image: '/images/gravity_waves_big.jpg'
-intro_image_absolute: true
-intro_image_hide_on_mobile: false
+description: "Meet the Team"
 ---
 
-<div class="row">
-  <div class="column">
-    <div class="card">
-      <img src="images/Aditi_Sheshadri.jpg" alt="Jane" style="width:100%">
-      <div class="container">
-        <h2>Jane Doe</h2>
-        <p class="title">CEO &amp; Founder</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
-      </div>
-    </div>
-  </div>
+Meet the team members
 
-  <div class="column">
-    <div class="card">
-      <img src="images/team/Brian_Green.jpg" alt="Mike" style="width:100%">
-      <div class="container">
-        <h2>Mike Ross</h2>
-        <p class="title">Art Director</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
-      </div>
-    </div>
-  </div>
+{{< myshortcode
+  imgpath="/images/team/Aditi_Sheshadri.jpg"
+  name="Aditi Sheshadri"
+  title="Director"
+  role="leads the charge"
+  website="stanford.edu">}}
 
-  <div class="column">
-    <div class="card">
-      <img src="/team/Marshall_Borrus.jpg" alt="John" style="width:100%">
-      <div class="container">
-        <h2>John Doe</h2>
-        <p class="title">Designer</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
-      </div>
-    </div>
-  </div>
-</div>
+{{< myshortcode
+  imgpath="/images/team/Marshall_Borrus.jpg"
+  name="Marshall borrus"
+  title="Project Admin + Research Assistant"
+  role="Administrator for project and research assistant working for Prof. Sheshadri at Stanford"
+  website="stanford.edu">}}
+
+{{< myshortcode
+      imgpath="/images/team/Brian_Green.jpg"
+      name="Brian Green"
+      title="PostDoc"
+      role="Climate modeling with Prof. Sheshadri at Stanford"
+      website="stanford.edu">}}
+
+{{< myshortcode
+  imgpath="/images/team/Zac_Espinosa.jpg"
+  name="Aditi Sheshadri"
+  title="Graduate Researcher"
+  role="Also does the climate beep boops under Aditi"
+  website="stanford.edu">}}

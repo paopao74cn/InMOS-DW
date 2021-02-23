@@ -17,22 +17,19 @@ theme="ananke"
   #  name = "Objectives"
   #  url = "/objectives/"
   #    weight = 1
+  # Footer Menu
 
   [[menu.main]]
-      name = "Team"
-      url = "/team/"
-      weight = 2
-
-   [[menu.main]]
-    name = "Team Test"
-    url = "/TheTeam/"
-    weight = 3
-
-  # Footer Menu
-  [[menu.footer]]
     name = "Home"
     url = "/"
       weight = 1
+
+  [[menu.main]]
+      name = "Team"
+      url = "/Team/"
+      weight = 2
+
+  
 
   #[[menu.footer]]
   #  name = "Contact"
