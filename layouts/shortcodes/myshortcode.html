@@ -1,13 +1,28 @@
 <style>
   .column {
     float: left;
-    width: 33.3%;
+    width: 25%;
     margin-bottom: 16px;
     padding: 0 8px;
   }
 
   /* Display the columns below each other instead of side by side on small screens */
-  @media screen and (max-width: 650px) {
+
+  @media screen and (max-width: 1100px) and (min-width: 750px) {
+    .column {
+      width: 33%;
+      display: block;
+    }
+  }
+
+  @media screen and (min-width: 551px) and (max-width: 750px){
+    .column {
+      width: 50%;
+      display: block;
+    }
+  }
+
+  @media screen and (max-width: 550px) {
     .column {
       width: 100%;
       display: block;
@@ -55,7 +70,7 @@
 
   <div class="column">
     <div class="card">
-      <img src="{{.Get `imgpath` }}" alt="Jane" style="width:100%">
+      <img src="{{.Get `imgpath` }}" alt="Jane" style="width:100%;">
       <div class="container">
         <h2>{{.Get "name"}}</h2>
         <p class="title">{{.Get "title"}}</p>
