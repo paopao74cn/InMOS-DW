@@ -13,6 +13,48 @@ Meet the team members
 {{< myshortcode
   imgpath="/images/team/Aditi_Sheshadri.jpg"
   name="Aditi Sheshadri"
+  title="Stanford "
+  role="leads the charge"
+  website="stanford.edu" >}}
+
+{{< myshortcode
+  imgpath="/images/team/Aditi_Sheshadri.jpg"
+  name="Claudia Stephan"
+  title=" "
+  role=" "
+  website=" " >}}
+
+{{< myshortcode
+  imgpath="/images/team/Aditi_Sheshadri.jpg"
+  name="Ed Gerber"
+  title=""
+  role=""
+  website="" >}}
+
+{{< myshortcode
+  imgpath="/images/team/Aditi_Sheshadri.jpg"
+  name="François Lott"
+  title=" "
+  role=" "
+  website=" " >}}
+
+{{< myshortcode
+  imgpath="/images/team/Aditi_Sheshadri.jpg"
+  name="Joan Alexander"
+  title=" "
+  role=" "
+  website=" " >}}
+
+{{< myshortcode
+  imgpath="/images/team/Aditi_Sheshadri.jpg"
+  name="Pedram Hassanzadeh"
+  title="Director"
+  role="leads the charge"
+  website="stanford.edu" >}}
+
+{{< myshortcode
+  imgpath="/images/team/Aditi_Sheshadri.jpg"
+  name="Ulrich Achatz"
   title="Director"
   role="leads the charge"
   website="stanford.edu" >}}
