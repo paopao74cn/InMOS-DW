@@ -3,9 +3,6 @@ title: "The Team"
 featured_image: '/images/gravity_waves_big.jpg'
 description: "Meet the Team"
 ---
-
-Meet the team members
-
 # Project Leads
 
 <!-- {{< myshortcode
@@ -19,23 +16,25 @@ Meet the team members
 
 {{< ProfileRegion >}}
 
-    {{< myshortcode
+    {{< Profile_Creator
       imgpath="/images/team/Aditi_Sheshadri.jpg"
       name="Aditi Sheshadri"
-      title="Stanford"
-      role="leads the charge"
-      website="stanford.edu" >}}
+      title="Head of Task X"
+      role="Does Y"
+      website="https://profiles.stanford.edu/aditi-sheshadri"
+      institute="Stanford University"
+      workdesc="" >}}
 
-    {{< myshortcode
+    {{< Profile_Creator
       imgpath="/images/team/Claudia_Stephan.jpg"
       name="Claudia Stephan"
-      title="X Team Lead"
-      role="Cloud-Wave Coupling"
+      title="Head of Task 2"
+      role="High-resolution Model Simulations of Gravity Waves"
       website="https://mpimet.mpg.de/en/staff/claudia-stephan"
       institute="Max Planck Institute for Meteorology"
-      workdesc="Our group studies the interplay of clouds and tropospheric waves at a process level to understand the role of waves in shaping patterns of clouds and precipitating convection." >}}
+      workdesc="High-resolution model simulations with the ICON model to study the generation of gravity waves by orographic and convective sources, and their three-dimensional resolved propagation through the atmosphere." >}}
 
-    {{< myshortcode
+    {{< Profile_Creator
       imgpath="/images/team/Ed_Gerber.jpg"
       name="Ed Gerber"
       title="X Team Lead"
@@ -44,7 +43,7 @@ Meet the team members
       institute="Center for Atmosphere Ocean Science, NYU"
       workdesc="I’m interested in the role of the upper atmosphere in surface climate, and develop idealized models of the stratosphere-troposphere system." >}}
 
-    {{< myshortcode
+    {{< Profile_Creator
       imgpath="/images/team/Francois_Lott.png"
       name="François Lott"
       title="X Team Lead"
@@ -53,7 +52,7 @@ Meet the team members
       institute="Dynamic Meteorology Laboratory, LMD"
       workdesc="  ">}}
 
-    {{< myshortcode
+    {{< Profile_Creator
       imgpath="/images/team/Joan_Alexander.jpg"
       name="Joan Alexander"
       title=" X Team Lead "
@@ -62,7 +61,7 @@ Meet the team members
       institute="NorthWest Research Associates; University of Colorado"
       workdesc="My research focuses on developing the needed understanding through observations and observational analyses, and through computer modeling of gravity wave sources, their propagation through the atmosphere, and their interaction with regional and global circulations." >}}
 
-    {{< myshortcode
+    {{< Profile_Creator
       imgpath="/images/team/Pedram_Hassanzadeh.jpg"
       name="Pedram Hassanzadeh"
       title="X Team Lead"
@@ -71,14 +70,14 @@ Meet the team members
       institute="Rice University"
       workdesc="We study turbulent flows in complex, natural phenomena and engineering systems using numerical, mathematical, statistical, and machine learning methods, guided by observational and experimental data." >}}
 
-    {{< myshortcode
+    {{< Profile_Creator
       imgpath="/images/team/Ulrich_Achatz.JPG"
       name="Ulrich Achatz"
-      title="X Team Lead"
-      role=""
+      title="Head of Task 3"
+      role="Ray Tracing-based Parameterization of GravityWaves"
       website="https://www.goethe-university-frankfurt.de/46279780/Achatz"
       institute="Goethe Universität Frankfurt"
-      workdesc="" >}}
+      workdesc="Scale interactions in atmospheric dynamics, e.g. the prognostic modelling of subgrid-scale of gravity waves and their impact on the flow resolved by atmospheric models." >}}
 
 {{</ ProfileRegion >}}
 
@@ -86,7 +85,7 @@ Meet the team members
 
 {{< ProfileRegion >}}
 
-{{< myshortcode
+{{< Profile_Creator
       imgpath="/images/team/Brian_Green.jpg"
       name="Brian Green"
       title="PostDoc"
@@ -95,7 +94,7 @@ Meet the team members
       institute=""
       workdesc="" >}}
 
-{{< myshortcode
+{{< Profile_Creator
   imgpath="/images/team/Zac_Espinosa.jpg"
   name="Aditi Sheshadri"
   title="Graduate Researcher"
@@ -110,7 +109,7 @@ Meet the team members
 
 {{< ProfileRegion >}}
 
-{{< myshortcode
+{{< Profile_Creator  
   imgpath="/images/team/Marshall_Borrus.jpg"
   name="Marshall borrus"
   title="Project Admin + Research Assistant"
