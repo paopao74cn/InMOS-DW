@@ -18,7 +18,7 @@ description: "Meet the Team"
 
     {{< Profile_Creator
       imgpath="/images/team/Aditi_Sheshadri.jpg"
-      name="Aditi Sheshadri"
+      name="Aditi Sheshadri "
       title="Head of Task X"
       role="Does Y"
       website="https://profiles.stanford.edu/aditi-sheshadri"
