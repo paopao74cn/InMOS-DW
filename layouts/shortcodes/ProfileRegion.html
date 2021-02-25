@@ -1,5 +1,48 @@
-<div class="row col-12 col-md-6 mb-2">
+<style>
 
-  {{ .Inner }}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-template-rows: auto auto;
+}
 
+@media screen and (max-width: 1100px) and (min-width: 750px) {
+  .grid-container {
+    /* transition: grid-template-columns 2s ease-in-out; */
+    grid-template-columns: auto auto auto;
+  }
+  .bio {
+    font-size: 1.7vw;
+  }
+}
+
+@media screen and (min-width: 551px) and (max-width: 750px){
+  .grid-container {
+    grid-template-columns: auto auto;
+  }
+  .bio {
+    font-size: 2.2vmin ;
+  }
+  .title{
+    font-size: .7em;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .grid-container {
+    grid-template-columns: auto;
+  }
+  .bio {
+    font-size: 3vw;
+  }
+}
+
+</style>
+
+<div class="grid-container">
+  <!-- <div class="row"> -->
+
+    {{ .Inner }}
+
+  <!-- </div> -->
 </div>

@@ -28,7 +28,7 @@ description: "Meet the Team"
     {{< Profile_Creator
       imgpath="/images/team/Claudia_Stephan.jpg"
       name="Claudia Stephan"
-      title="Head of Task 2"
+      title="Head of Task 2 "
       role="High-resolution Model Simulations of Gravity Waves"
       website="https://mpimet.mpg.de/en/staff/claudia-stephan"
       institute="Max Planck Institute for Meteorology"
@@ -112,6 +112,20 @@ description: "Meet the Team"
 {{< Profile_Creator  
   imgpath="/images/team/Marshall_Borrus.jpg"
   name="Marshall borrus"
+  title="Project Admin + Research Assistant"
+  role="Administrator for project and research assistant working for Prof. Sheshadri at Stanford"
+  website="stanford.edu" >}}
+
+{{< Profile_Creator  
+  imgpath="/images/team/Marshall_Borrus.jpg"
+  name="Person 2"
+  title="Project Admin + Research Assistant"
+  role="Administrator for project and research assistant working for Prof. Sheshadri at Stanford"
+  website="stanford.edu" >}}
+
+{{< Profile_Creator  
+  imgpath="/images/team/Marshall_Borrus.jpg"
+  name="Person 3"
   title="Project Admin + Research Assistant"
   role="Administrator for project and research assistant working for Prof. Sheshadri at Stanford"
   website="stanford.edu" >}}
