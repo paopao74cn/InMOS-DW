@@ -88,10 +88,6 @@ description: "Meet the Team"
       workdesc="Climate variability and prediction, stratosphere-troposphere interaction, Atmospheric waves and wave-mean flow interaction. " >}}
 
 
-
-<!-- name="Aditi Sheshadri " -->
-
-
 {{</ ProfileRegion >}}
 
 # Senior Researchers
@@ -135,12 +131,12 @@ description: "Meet the Team"
 
 {{< Profile_Creator
   imgpath="/images/team/Zac_Espinosa.jpg"
-  name="Aditi Sheshadri"
-  title="Graduate Researcher"
-  role=" XXX Also does the climate beep boops under Aditi"
-  website="stanford.edu"
-  institute=" XXX "
-  workdesc=" XXX " >}}
+  name="Zac Espinosa"
+  title="Graduate Research Assistant"
+  role=""
+  website="https://eddy.stanford.edu/people"
+  institute=" Stanford School of Earth "
+  workdesc="Applications of machine learning to inform and improve existing parameterizations in global climate models" >}}
 
 {{</ ProfileRegion >}}
 
@@ -153,20 +149,164 @@ description: "Meet the Team"
   name="Marshall Borrus"
   title="Project Admin + Research Assistant"
   role="Administrator for project and research assistant"
-  website="stanford.edu" >}}
+  website="stanford.edu"
+  institute=" XXX "
+  workdesc=" XXX " >}}
 
-{{< Profile_Creator  
-  imgpath="/images/team/Marshall_Borrus.jpg"
-  name=" XXX "
-  title="Project Admin + Research Assistant"
-  role="Administrator for project and research assistant"
-  website="stanford.edu" >}}
+{{</ ProfileRegion >}}
 
+# Unplaced - In Progress
+
+{{< ProfileRegion >}}
+
+<!--  Ofer	Shamir  -->
 {{< Profile_Creator  
-  imgpath="/images/team/Marshall_Borrus.jpg"
-  name=" XXX "
-  title="Project Admin + Research Assistant"
-  role="Administrator for project and research assistant"
-  website="stanford.edu" >}}
+  imgpath="/images/team/Ofer_Shamir .jpg"
+  name=" Ofer	Shamir "
+  title=" XXX "
+  role=" XXX "
+  website=" XXX "
+  institute=" NYU "
+  workdesc=" XXX " >}}
+
+<!--  Minah	Yang  -->
+{{< Profile_Creator  
+  imgpath="/images/team/Minah_Yang.jpg"
+  name=" Minah	Yang"
+  title=" XXX "
+  role=" XXX "
+  website=" XXX "
+  institute=" NYU "
+  workdesc=" XXX " >}}
+
+<!--  Laura	Mansfield  -->
+{{< Profile_Creator  
+  imgpath="/images/team/Laura_Mansfield.jpg"
+  name="Laura	Mansfield"
+  title=" XXX "
+  role=" XXX "
+  website=" XXX "
+  institute=" Stanford "
+  workdesc=" XXX " >}}
+
+<!--  Lubis	Sandro  -->
+{{< Profile_Creator  
+  imgpath="/images/team/Lubis_Sandro.jpg"
+  name="Lubis	Sandro"
+  title=" XXX "
+  role=" XXX "
+  website=" XXX "
+  institute=" Rice "
+  workdesc=" XXX " >}}
+
+<!--  Karan	Jakhar  -->
+{{< Profile_Creator  
+  imgpath="/images/team/Karan_Jakhar.jpg"
+  name="Karan	Jakhar"
+  title=" XXX "
+  role=" XXX "
+  website=" XXX "
+  institute=" Rice "
+  workdesc=" XXX " >}}
+
+<!--  Annelize van Niekerk  -->
+{{< Profile_Creator  
+  imgpath="/images/team/Annelize_van_Niekerk.jpg"
+  name="Annelize van Niekerk"
+  title=" XXX "
+  role=" XXX "
+  website=" XXX "
+  institute=" MetOffice "
+  workdesc=" XXX " >}}
+
+<!--  Steven	Hardiman  -->
+  {{< Profile_Creator  
+    imgpath="/images/team/Steven_Hardiman.jpg"
+    name="Steven	Hardiman"
+    title=" XXX "
+    role=" XXX "
+    website=" XXX "
+    institute=" MetOffice "
+    workdesc=" XXX " >}}
+
+<!--  Rachel	Prudden  -->
+  {{< Profile_Creator  
+    imgpath="/images/team/Rachel_Prudden.jpg"
+    name="Rachel	Prudden"
+    title=" XXX "
+    role=" XXX "
+    website=" XXX "
+    institute=" MetOffice "
+    workdesc=" XXX " >}}
+
+<!--  Martina	Bramberger  -->
+  {{< Profile_Creator  
+    imgpath="/images/team/Martina_Bramberger.jpg"
+    name="Martina	Bramberger"
+    title=" "
+    role="Postdoctoral Researcher"
+    website=" https://www.nwra.com/people/327/ "
+    institute=" NorthWest Research Associates "
+    workdesc=" Analysis of gravity waves and their momentum flux with observational data " >}}
+
+<!--  Alison	Grimsdell  -->
+  {{< Profile_Creator  
+    imgpath="/images/team/Alison_Grimsdell.jpg"
+    name="Alison Grimsdell"
+    title=" XXX "
+    role=" XXX "
+    website=" XXX "
+    institute=" NWRA "
+    workdesc=" XXX " >}}
+
+<!--  Riwal	Plougonven  -->
+  {{< Profile_Creator  
+    imgpath="/images/team/Riwal_Plougonven.jpg"
+    name="Riwal	Plougonven"
+    title=" XXX "
+    role=" XXX "
+    website=" XXX "
+    institute=" LMD/IPSL "
+    workdesc=" XXX " >}}
+
+<!--  Aurélien 	Podglagen  -->
+  {{< Profile_Creator  
+    imgpath="/images/team/Aurelien_Podglagen.jpg"
+    name="Aurélien Podglagen"
+    title="Research scientist"
+    role=" Collaboration with François Lott "
+    website=" https://www.lmd.jussieu.fr/Members/apodglajen "
+    institute="Laboratoire de Meteorologie Dynamique"
+    workdesc=" Characterizing gravity waves and their interactions with cirrus clouds in the upper troposphere, using superpressure balloon observations and modeling approaches. " >}}
+
+<!--  Albert	Hertzog  -->
+  {{< Profile_Creator  
+    imgpath="/images/team/Albert_Hertzog.jpg"
+    name="Albert Hertzog"
+    title=" XXX "
+    role=" XXX "
+    website=" XXX "
+    institute=" LMD/IPSL "
+    workdesc=" XXX " >}}
+
+
+  <!-- {{< Profile_Creator  
+    imgpath="/images/team/.jpg"
+    name=" "
+    title=" XXX "
+    role=" XXX "
+    website=" XXX "
+    institute=" LMD/IPSL "
+    workdesc=" XXX " >}}
+
+
+  {{< Profile_Creator  
+    imgpath="/images/team/.jpg"
+    name=" "
+    title=" XXX "
+    role=" XXX "
+    website=" XXX "
+    institute=" LMD/IPSL "
+    workdesc=" XXX " >}}    -->
 
 {{</ ProfileRegion >}}
