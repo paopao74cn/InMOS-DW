@@ -27,7 +27,7 @@ description: "Meet the Team"
 
     {{< Profile_Creator
       imgpath="/images/team/Claudia_Stephan.jpg"
-      name="Claudia Stephan"
+      name="Claudia Stephan "
       title="Head of Task 2"
       role="High-resolution Model Simulations of Gravity Waves"
       website="https://mpimet.mpg.de/en/staff/claudia-stephan"
@@ -89,19 +89,19 @@ description: "Meet the Team"
       imgpath="/images/team/Brian_Green.jpg"
       name="Brian Green"
       title="PostDoc"
-      role="Climate modeling with Prof. Sheshadri at Stanford"
+      role=" XXX Does beep boops for science "
       website="stanford.edu"
-      institute=""
-      workdesc="" >}}
+      institute=" XXX "
+      workdesc=" XXX " >}}
 
 {{< Profile_Creator
   imgpath="/images/team/Zac_Espinosa.jpg"
   name="Aditi Sheshadri"
   title="Graduate Researcher"
-  role="Also does the climate beep boops under Aditi"
+  role=" XXX Also does the climate beep boops under Aditi"
   website="stanford.edu"
-  institute=""
-  workdesc="" >}}
+  institute=" XXX "
+  workdesc=" XXX " >}}
 
 {{</ ProfileRegion >}}
 
@@ -113,21 +113,21 @@ description: "Meet the Team"
   imgpath="/images/team/Marshall_Borrus.jpg"
   name="Marshall borrus"
   title="Project Admin + Research Assistant"
-  role="Administrator for project and research assistant working for Prof. Sheshadri at Stanford"
+  role="Administrator for project and research assistant"
   website="stanford.edu" >}}
 
 {{< Profile_Creator  
   imgpath="/images/team/Marshall_Borrus.jpg"
   name="Person 2"
   title="Project Admin + Research Assistant"
-  role="Administrator for project and research assistant working for Prof. Sheshadri at Stanford"
+  role="Administrator for project and research assistant"
   website="stanford.edu" >}}
 
 {{< Profile_Creator  
   imgpath="/images/team/Marshall_Borrus.jpg"
   name="Person 3"
   title="Project Admin + Research Assistant"
-  role="Administrator for project and research assistant working for Prof. Sheshadri at Stanford"
+  role="Administrator for project and research assistant"
   website="stanford.edu" >}}
 
 {{</ ProfileRegion >}}
