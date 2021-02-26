@@ -16,6 +16,7 @@ description: "Meet the Team"
 
 {{< ProfileRegion >}}
 
+<!-- name="Aditi Sheshadri " -->
     {{< Profile_Creator
       imgpath="/images/team/Aditi_Sheshadri.jpg"
       name="Aditi Sheshadri "
@@ -25,6 +26,7 @@ description: "Meet the Team"
       institute="Assistant Prof., Stanford University"
       workdesc=" Public data portal for observation data and momentum flux and uncertainty quantification" >}}
 
+<!-- name="Claudia Stephan " -->
     {{< Profile_Creator
       imgpath="/images/team/Claudia_Stephan.jpg"
       name="Claudia Stephan "
@@ -34,6 +36,37 @@ description: "Meet the Team"
       institute="Group Leader, Max Planck Institute for Meteorology"
       workdesc="High-resolution model simulations with the ICON model to study the generation of gravity waves by orographic and convective sources, and their three-dimensional resolved propagation through the atmosphere." >}}
 
+<!-- name="Ulrich Achatz" -->
+    {{< Profile_Creator
+      imgpath="/images/team/Ulrich_Achatz.JPG"
+      name="Ulrich Achatz"
+      title="Head of Task 3"
+      role="Ray Tracing-based Parameterization of Gravity Waves"
+      website="https://www.goethe-university-frankfurt.de/46279780/Achatz"
+      institute="Prof., Johann Wolfgang Goethe-Universität Frankfurt"
+      workdesc="Scale interactions in atmospheric dynamics, e.g. the prognostic modelling of subgrid-scale of gravity waves and their impact on the flow resolved by atmospheric models." >}}
+
+<!-- name="Pedram Hassanzadeh" -->
+    {{< Profile_Creator
+      imgpath="/images/team/Pedram_Hassanzadeh.jpg"
+      name="Pedram Hassanzadeh"
+      title="Co-Head of Task 4"
+      role=" Machine Learning-based Parameterization of Gravity Waves "
+      website="http://pedram.rice.edu/director/"
+      institute="Assistant Prof., Rice University"
+      workdesc="Turbulent flows using numerical, mathematical, statistical, and machine learning methods, guided by observational and experimental data." >}}
+
+<!-- name="Alberto Arribas" -->
+    {{< Profile_Creator
+      imgpath="/images/team/Alberto_Arribas.jpg"
+      name="Alberto Arribas"
+      title="Co-Head of Task 4"
+      role=" Machine Learning-based Parameterization of Gravity Waves "
+      website="https://www.informaticslab.co.uk/"
+      institute="Head of Informatics Lab and Met Office Research Fellow"
+      workdesc=" XXX " >}}
+
+<!-- name="Ed Gerber" -->
     {{< Profile_Creator
       imgpath="/images/team/Ed_Gerber.jpg"
       name="Ed Gerber"
@@ -43,41 +76,47 @@ description: "Meet the Team"
       institute="Prof., Courant Institute of Mathematical Sciences, NYU"
       workdesc="Atmospheric dynamics and idealized modeling." >}}
 
-    {{< Profile_Creator
-      imgpath="/images/team/Francois_Lott.jpg"
-      name="François Lott"
-      title="Task 1/3/5 Member"
-      role="Parameterization Development and Testing"
-      website="https://www.lmd.jussieu.fr/~flott/homepage.html"
-      institute="Laboratoire de Meteorologie Dynamique"
-      workdesc=" Mountain flow, stratospheric dynamics, and parameterizations of subgrid scale mountains and of non-orographic gravity waves." >}}
+<!-- name="Adam Scaife" -->
 
     {{< Profile_Creator
-      imgpath="/images/team/Joan_Alexander.jpg"
-      name="Joan Alexander"
-      title=" Consultant on Task 2"
-      role=" High-resolution Model Simulations of Gravity Waves "
-      website="https://www.cora.nwra.com/"
-      institute="Senior Research Scientist, NorthWest Research Associates"
-      workdesc="Observations and computer modeling of gravity wave sources, their propagation through the atmosphere, and their interaction with regional and global circulations." >}}
+      imgpath="/images/team/Adam_Scaife.jpg"
+      name="Adam Scaife"
+      title="Co-Head of Task 5"
+      role=" Gravity  Wave  Impacts  in  Climate  Projections "
+      website="https://www.metoffice.gov.uk/research/people/adam-scaife"
+      institute="Head of Long Range Prediction, Met Office Hadley Center"
+      workdesc="Climate variability and prediction, stratosphere-troposphere interaction, Atmospheric waves and wave-mean flow interaction. " >}}
 
-    {{< Profile_Creator
-      imgpath="/images/team/Pedram_Hassanzadeh.jpg"
-      name="Pedram Hassanzadeh"
-      title=" Co-Head of Task 4 "
-      role=" Machine Learning-based Parameterization of Gravity Waves "
-      website="http://pedram.rice.edu/director/"
-      institute="Assistant Prof., Rice University"
-      workdesc="Turbulent flows using numerical, mathematical, statistical, and machine learning methods, guided by observational and experimental data." >}}
 
-    {{< Profile_Creator
-      imgpath="/images/team/Ulrich_Achatz.JPG"
-      name="Ulrich Achatz"
-      title="Head of Task 3"
-      role="Ray Tracing-based Parameterization of Gravity Waves"
-      website="https://www.goethe-university-frankfurt.de/46279780/Achatz"
-      institute="Prof., Johann Wolfgang Goethe-Universität Frankfurt"
-      workdesc="Scale interactions in atmospheric dynamics, e.g. the prognostic modelling of subgrid-scale of gravity waves and their impact on the flow resolved by atmospheric models." >}}
+
+<!-- name="Aditi Sheshadri " -->
+
+
+{{</ ProfileRegion >}}
+
+# Senior Researchers
+
+{{< ProfileRegion >}}
+
+<!-- name="Joan Alexander" -->
+{{< Profile_Creator
+  imgpath="/images/team/Joan_Alexander.jpg"
+  name="Joan Alexander"
+  title=" Task 2"
+  role=" High-resolution Model Simulations of Gravity Waves "
+  website="https://www.cora.nwra.com/"
+  institute="Senior Research Scientist, NorthWest Research Associates"
+  workdesc="Observations and computer modeling of gravity wave sources, their propagation through the atmosphere, and their interaction with regional and global circulations." >}}
+
+<!-- name="François Lott" -->  
+{{< Profile_Creator
+    imgpath="/images/team/Francois_Lott.jpg"
+    name="François Lott"
+    title="Task 1, 3, and 5 "
+    role="Parameterization Development and Testing"
+    website="https://www.lmd.jussieu.fr/~flott/homepage.html"
+    institute="Laboratoire de Meteorologie Dynamique"
+    workdesc=" Mountain flow, stratospheric dynamics, and parameterizations of subgrid scale mountains and of non-orographic gravity waves." >}}
 
 {{</ ProfileRegion >}}
 
@@ -111,21 +150,21 @@ description: "Meet the Team"
 
 {{< Profile_Creator  
   imgpath="/images/team/Marshall_Borrus.jpg"
-  name="Marshall borrus"
+  name="Marshall Borrus"
   title="Project Admin + Research Assistant"
   role="Administrator for project and research assistant"
   website="stanford.edu" >}}
 
 {{< Profile_Creator  
   imgpath="/images/team/Marshall_Borrus.jpg"
-  name="Person 2"
+  name=" XXX "
   title="Project Admin + Research Assistant"
   role="Administrator for project and research assistant"
   website="stanford.edu" >}}
 
 {{< Profile_Creator  
   imgpath="/images/team/Marshall_Borrus.jpg"
-  name="Person 3"
+  name=" XXX "
   title="Project Admin + Research Assistant"
   role="Administrator for project and research assistant"
   website="stanford.edu" >}}
