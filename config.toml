@@ -29,7 +29,11 @@ theme="ananke"
       url = "/Team/"
       weight = 2
 
-  
+  [[menu.main]]
+      name = "Jobs"
+      url = "/Jobs/"
+      weight = 3
+
 
   #[[menu.footer]]
   #  name = "Contact"
