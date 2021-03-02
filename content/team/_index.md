@@ -57,14 +57,14 @@ description: "Meet the Team"
       workdesc="Turbulent flows using numerical, mathematical, statistical, and machine learning methods, guided by observational and experimental data." >}}
 
 <!-- name="Alberto Arribas" -->
-    {{< Profile_Creator
+    <!-- {{< Profile_Creator
       imgpath="/images/team/Alberto_Arribas.jpg"
       name="Alberto Arribas"
       title="Co-Head of Task 4"
       role=" Machine Learning-based Parameterization of Gravity Waves "
       website="https://www.informaticslab.co.uk/"
       institute="Head of Informatics Lab and Met Office Research Fellow"
-      workdesc=" XXX " >}}
+      workdesc=" XXX " >}} -->
 
 <!-- name="Ed Gerber" -->
     {{< Profile_Creator
@@ -87,56 +87,127 @@ description: "Meet the Team"
       institute="Head of Long Range Prediction, Met Office Hadley Center"
       workdesc="Climate variability and prediction, stratosphere-troposphere interaction, Atmospheric waves and wave-mean flow interaction. " >}}
 
+    <!-- name="Joan Alexander" -->
+    {{< Profile_Creator
+      imgpath="/images/team/Joan_Alexander.jpg"
+      name="Joan Alexander"
+      title=" Task 2"
+      role=" High-resolution Model Simulations of Gravity Waves "
+      website="https://www.cora.nwra.com/"
+      institute="Senior Research Scientist, NorthWest Research Associates"
+      workdesc="Observations and computer modeling of gravity wave sources, their propagation through the atmosphere, and their interaction with regional and global circulations." >}}
+
+    <!-- name="François Lott" -->  
+    {{< Profile_Creator
+        imgpath="/images/team/Francois_Lott.jpg"
+        name="François Lott"
+        title="Task 1, 3, and 5 "
+        role="Parameterization Development and Testing"
+        website="https://www.lmd.jussieu.fr/~flott/homepage.html"
+        institute="Laboratoire de Meteorologie Dynamique"
+        workdesc=" Mountain flow, stratospheric dynamics, and parameterizations of subgrid scale mountains and of non-orographic gravity waves." >}}
 
 {{</ ProfileRegion >}}
 
-# Senior Researchers
+# PostDocs and Research Scientists
 
 {{< ProfileRegion >}}
 
-<!-- name="Joan Alexander" -->
-{{< Profile_Creator
-  imgpath="/images/team/Joan_Alexander.jpg"
-  name="Joan Alexander"
-  title=" Task 2"
-  role=" High-resolution Model Simulations of Gravity Waves "
-  website="https://www.cora.nwra.com/"
-  institute="Senior Research Scientist, NorthWest Research Associates"
-  workdesc="Observations and computer modeling of gravity wave sources, their propagation through the atmosphere, and their interaction with regional and global circulations." >}}
+<!--  Annelize van Niekerk  -->
+{{< Profile_Creator  
+  imgpath="/images/team/Annelize_Van_Niekerk.jpg"
+  name="Annelize van Niekerk"
+  title=" Senior Scientist in Atmospheric Processes and Parametrizations "
+  role="  "
+  website=" https://www.metoffice.gov.uk/research/people/annelize-van-niekerk "
+  institute=" MetOffice "
+  workdesc=" development and validation of orographic gravity wave drag parametrizations in models " >}}
 
-<!-- name="François Lott" -->  
-{{< Profile_Creator
-    imgpath="/images/team/Francois_Lott.jpg"
-    name="François Lott"
-    title="Task 1, 3, and 5 "
-    role="Parameterization Development and Testing"
-    website="https://www.lmd.jussieu.fr/~flott/homepage.html"
-    institute="Laboratoire de Meteorologie Dynamique"
-    workdesc=" Mountain flow, stratospheric dynamics, and parameterizations of subgrid scale mountains and of non-orographic gravity waves." >}}
+<!--  Riwal	Plougonven  -->
+  {{< Profile_Creator  
+    imgpath="/images/team/Riwal_Plougonven.jpg"
+    name="Riwal	Plougonven"
+    title=" Professor"
+    role=" Collaboration with François Lott  "
+    website=" http://www.lmd.ens.fr/plougon/ "
+    institute=" Ecole Polytechnique (LMD/IPSL) "
+    workdesc=" Atmospheric dynamics, with a focus on observation and modeling of gravity waves and their impacts in the stratosphere. " >}}
 
-{{</ ProfileRegion >}}
+    <!--  Aurélien 	Podglagen  -->
+    {{< Profile_Creator  
+      imgpath="/images/team/Aurelien_Podglagen.jpg"
+      name="Aurélien Podglagen"
+      title="Research scientist"
+      role=" Collaboration with François Lott "
+      website=" https://www.lmd.jussieu.fr/Members/apodglajen "
+      institute="Laboratoire de Meteorologie Dynamique"
+      workdesc=" Characterizing gravity waves and their interactions with cirrus clouds in the upper troposphere, using superpressure balloon observations and modeling approaches. " >}}
 
-# Graduate Researchers
+<!--  Steven	Hardiman  -->
+  {{< Profile_Creator  
+    imgpath="/images/team/Steven_Hardiman.jpg"
+    name="Steven Hardiman"
+    title=" Research Scientist "
+    role="  "
+    website=" https://www.metoffice.gov.uk/research/people/steven-hardiman "
+    institute=" MetOffice "
+    workdesc=" Global scale dynamics and teleconnections " >}}
 
-{{< ProfileRegion >}}
-
+<!--  Brian Green  -->
 {{< Profile_Creator
       imgpath="/images/team/Brian_Green.jpg"
       name="Brian Green"
-      title="PostDoc"
-      role=" XXX Does beep boops for science "
-      website="stanford.edu"
-      institute=" XXX "
-      workdesc=" XXX " >}}
+      title=""
+      role="Postdoctoral Researcher"
+      website="https://eddy.stanford.edu/people"
+      institute=" Stanford School of Earth "
+      workdesc=" Analysis of gravity waves using loon observation data " >}}
 
+<!--  Martina	Bramberger  -->
+{{< Profile_Creator  
+  imgpath="/images/team/Martina_Bramberger.jpg"
+  name="Martina	Bramberger"
+  title=" "
+  role="Postdoctoral Researcher"
+  website=" https://www.nwra.com/people/327/ "
+  institute=" NorthWest Research Associates "
+  workdesc=" Analysis of gravity waves and their momentum flux with observational data " >}}
+
+  <!--  Lubis	Sandro  -->
+  {{< Profile_Creator  
+    imgpath="/images/team/Sandro_Lubis.jpg"
+    name="Sandro Lubis"
+    title=" Postdoctoral Researcher "
+    role="  "
+    website=" https://pedram.rice.edu/team/ "
+    institute=" Rice University "
+    workdesc=" Dynamics of large-wave events, eddy-mean flow interaction, ozone-gravity wave interaction " >}}
+
+  <!--  Ofer	Shamir  -->
+  {{< Profile_Creator  
+    imgpath="/images/team/Ofer_Shamir.jpg"
+    name=" Ofer	Shamir "
+    title=" Postdoctoral Researcher "
+    role=" Starting June, 2021 "
+    website=" XXX "
+    institute=" NYU "
+    workdesc=" Geophysical Fluid Dynamics " >}}
+
+{{</ ProfileRegion >}}
+
+# Graduate Students
+
+{{< ProfileRegion >}}
+
+<!--  Zac Espinosa  -->
 {{< Profile_Creator
-  imgpath="/images/team/Zac_Espinosa.jpg"
-  name="Zac Espinosa"
-  title="Graduate Research Assistant"
-  role=""
-  website="https://eddy.stanford.edu/people"
-  institute=" Stanford School of Earth "
-  workdesc="Applications of machine learning to inform and improve existing parameterizations in global climate models" >}}
+    imgpath="/images/team/Zac_Espinosa.jpg"
+    name="Zac Espinosa"
+    title="Graduate Research Assistant"
+    role=" "
+    website="https://eddy.stanford.edu/people"
+    institute=" Stanford School of Earth "
+    workdesc="Applications of machine learning to inform and improve existing parameterizations in global climate models" >}}
 
 {{</ ProfileRegion >}}
 
@@ -149,9 +220,9 @@ description: "Meet the Team"
   name="Marshall Borrus"
   title="Project Admin + Research Assistant"
   role="Administrator for project and research assistant"
-  website="stanford.edu"
-  institute=" XXX "
-  workdesc=" XXX " >}}
+  website="https://eddy.stanford.edu/people"
+  institute=" Stanford School or Earth "
+  workdesc=" Project administrator: organization and planning" >}}
 
 {{</ ProfileRegion >}}
 
@@ -159,15 +230,7 @@ description: "Meet the Team"
 
 {{< ProfileRegion >}}
 
-<!--  Ofer	Shamir  -->
-{{< Profile_Creator  
-  imgpath="/images/team/Ofer_Shamir .jpg"
-  name=" Ofer	Shamir "
-  title=" XXX "
-  role=" XXX "
-  website=" XXX "
-  institute=" NYU "
-  workdesc=" XXX " >}}
+
 
 <!--  Minah	Yang  -->
 {{< Profile_Creator  
@@ -186,18 +249,9 @@ description: "Meet the Team"
   title=" XXX "
   role=" XXX "
   website=" XXX "
-  institute=" Stanford "
+  institute=" Stanford School of Earth "
   workdesc=" XXX " >}}
 
-<!--  Lubis	Sandro  -->
-{{< Profile_Creator  
-  imgpath="/images/team/Lubis_Sandro.jpg"
-  name="Lubis	Sandro"
-  title=" XXX "
-  role=" XXX "
-  website=" XXX "
-  institute=" Rice "
-  workdesc=" XXX " >}}
 
 <!--  Karan	Jakhar  -->
 {{< Profile_Creator  
@@ -206,28 +260,8 @@ description: "Meet the Team"
   title=" XXX "
   role=" XXX "
   website=" XXX "
-  institute=" Rice "
+  institute=" Rice University "
   workdesc=" XXX " >}}
-
-<!--  Annelize van Niekerk  -->
-{{< Profile_Creator  
-  imgpath="/images/team/Annelize_van_Niekerk.jpg"
-  name="Annelize van Niekerk"
-  title=" XXX "
-  role=" XXX "
-  website=" XXX "
-  institute=" MetOffice "
-  workdesc=" XXX " >}}
-
-<!--  Steven	Hardiman  -->
-  {{< Profile_Creator  
-    imgpath="/images/team/Steven_Hardiman.jpg"
-    name="Steven	Hardiman"
-    title=" XXX "
-    role=" XXX "
-    website=" XXX "
-    institute=" MetOffice "
-    workdesc=" XXX " >}}
 
 <!--  Rachel	Prudden  -->
   {{< Profile_Creator  
@@ -239,16 +273,6 @@ description: "Meet the Team"
     institute=" MetOffice "
     workdesc=" XXX " >}}
 
-<!--  Martina	Bramberger  -->
-  {{< Profile_Creator  
-    imgpath="/images/team/Martina_Bramberger.jpg"
-    name="Martina	Bramberger"
-    title=" "
-    role="Postdoctoral Researcher"
-    website=" https://www.nwra.com/people/327/ "
-    institute=" NorthWest Research Associates "
-    workdesc=" Analysis of gravity waves and their momentum flux with observational data " >}}
-
 <!--  Alison	Grimsdell  -->
   {{< Profile_Creator  
     imgpath="/images/team/Alison_Grimsdell.jpg"
@@ -258,26 +282,6 @@ description: "Meet the Team"
     website=" XXX "
     institute=" NWRA "
     workdesc=" XXX " >}}
-
-<!--  Riwal	Plougonven  -->
-  {{< Profile_Creator  
-    imgpath="/images/team/Riwal_Plougonven.jpg"
-    name="Riwal	Plougonven"
-    title=" XXX "
-    role=" XXX "
-    website=" XXX "
-    institute=" LMD/IPSL "
-    workdesc=" XXX " >}}
-
-<!--  Aurélien 	Podglagen  -->
-  {{< Profile_Creator  
-    imgpath="/images/team/Aurelien_Podglagen.jpg"
-    name="Aurélien Podglagen"
-    title="Research scientist"
-    role=" Collaboration with François Lott "
-    website=" https://www.lmd.jussieu.fr/Members/apodglajen "
-    institute="Laboratoire de Meteorologie Dynamique"
-    workdesc=" Characterizing gravity waves and their interactions with cirrus clouds in the upper troposphere, using superpressure balloon observations and modeling approaches. " >}}
 
 <!--  Albert	Hertzog  -->
   {{< Profile_Creator  
