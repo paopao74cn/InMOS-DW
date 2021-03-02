@@ -118,40 +118,40 @@ description: "Meet the Team"
   imgpath="/images/team/Annelize_Van_Niekerk.jpg"
   name="Annelize van Niekerk"
   title=" Senior Scientist in Atmospheric Processes and Parametrizations "
-  role="  "
-  website=" https://www.metoffice.gov.uk/research/people/annelize-van-niekerk "
-  institute=" MetOffice "
-  workdesc=" development and validation of orographic gravity wave drag parametrizations in models " >}}
+  role=" test "
+  website="https://www.metoffice.gov.uk/research/people/annelize-van-niekerk"
+  institute="MetOffice"
+  workdesc="Development and validation of orographic gravity wave drag parametrizations in models" >}}
 
 <!--  Riwal	Plougonven  -->
   {{< Profile_Creator  
     imgpath="/images/team/Riwal_Plougonven.jpg"
     name="Riwal	Plougonven"
-    title=" Professor"
-    role=" Collaboration with François Lott  "
-    website=" http://www.lmd.ens.fr/plougon/ "
-    institute=" Ecole Polytechnique (LMD/IPSL) "
-    workdesc=" Atmospheric dynamics, with a focus on observation and modeling of gravity waves and their impacts in the stratosphere. " >}}
+    title="Professor"
+    role="Collaboration with François Lott"
+    website="http://www.lmd.ens.fr/plougon/"
+    institute="Ecole Polytechnique (LMD/IPSL)"
+    workdesc="Atmospheric dynamics, with a focus on observation and modeling of gravity waves and their impacts in the stratosphere." >}}
 
     <!--  Aurélien 	Podglagen  -->
-    {{< Profile_Creator  
+    {{<Profile_Creator  
       imgpath="/images/team/Aurelien_Podglagen.jpg"
       name="Aurélien Podglagen"
       title="Research scientist"
-      role=" Collaboration with François Lott "
-      website=" https://www.lmd.jussieu.fr/Members/apodglajen "
+      role="Collaboration with François Lott"
+      website="https://www.lmd.jussieu.fr/Members/apodglajen"
       institute="Laboratoire de Meteorologie Dynamique"
-      workdesc=" Characterizing gravity waves and their interactions with cirrus clouds in the upper troposphere, using superpressure balloon observations and modeling approaches. " >}}
+      workdesc="Characterizing gravity waves and their interactions with cirrus clouds in the upper troposphere, using superpressure balloon observations and modeling approaches." >}}
 
 <!--  Steven	Hardiman  -->
-  {{< Profile_Creator  
+  {{<Profile_Creator  
     imgpath="/images/team/Steven_Hardiman.jpg"
     name="Steven Hardiman"
-    title=" Research Scientist "
+    title="Research Scientist"
     role="  "
-    website=" https://www.metoffice.gov.uk/research/people/steven-hardiman "
-    institute=" MetOffice "
-    workdesc=" Global scale dynamics and teleconnections " >}}
+    website="https://www.metoffice.gov.uk/research/people/steven-hardiman"
+    institute="MetOffice"
+    workdesc="Global scale dynamics and teleconnections" >}}
 
 <!--  Brian Green  -->
 {{< Profile_Creator
@@ -160,8 +160,8 @@ description: "Meet the Team"
       title=""
       role="Postdoctoral Researcher"
       website="https://eddy.stanford.edu/people"
-      institute=" Stanford School of Earth "
-      workdesc=" Analysis of gravity waves using loon observation data " >}}
+      institute="Stanford School of Earth"
+      workdesc="Analysis of gravity waves using loon observation data" >}}
 
 <!--  Martina	Bramberger  -->
 {{< Profile_Creator  
@@ -169,29 +169,29 @@ description: "Meet the Team"
   name="Martina	Bramberger"
   title=" "
   role="Postdoctoral Researcher"
-  website=" https://www.nwra.com/people/327/ "
-  institute=" NorthWest Research Associates "
-  workdesc=" Analysis of gravity waves and their momentum flux with observational data " >}}
+  website="https://www.nwra.com/people/327/"
+  institute="NorthWest Research Associates"
+  workdesc="Analysis of gravity waves and their momentum flux with observational data" >}}
 
   <!--  Lubis	Sandro  -->
   {{< Profile_Creator  
     imgpath="/images/team/Sandro_Lubis.jpg"
     name="Sandro Lubis"
-    title=" Postdoctoral Researcher "
-    role="  "
-    website=" https://pedram.rice.edu/team/ "
-    institute=" Rice University "
-    workdesc=" Dynamics of large-wave events, eddy-mean flow interaction, ozone-gravity wave interaction " >}}
+    title="Postdoctoral Researcher"
+    role=""
+    website="https://pedram.rice.edu/team/"
+    institute="Rice University"
+    workdesc="Dynamics of large-wave events, eddy-mean flow interaction, ozone-gravity wave interaction" >}}
 
   <!--  Ofer	Shamir  -->
   {{< Profile_Creator  
     imgpath="/images/team/Ofer_Shamir.jpg"
-    name=" Ofer	Shamir "
-    title=" Postdoctoral Researcher "
-    role=" Starting June, 2021 "
-    website=" XXX "
-    institute=" NYU "
-    workdesc=" Geophysical Fluid Dynamics " >}}
+    name="Ofer	Shamir"
+    title="Postdoctoral Researcher"
+    role="Starting June, 2021"
+    website="XXX"
+    institute="NYU"
+    workdesc="Geophysical Fluid Dynamics" >}}
 
 {{</ ProfileRegion >}}
 
