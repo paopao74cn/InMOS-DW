@@ -5,10 +5,6 @@
 
 {{ define "main" }}
   {{ $section := .Site.GetPage "section" .Section }}
-  <head>
-    <title>Test Team</title>
-    <link rel="stylesheet" type="text/css" href="css/styles.css" />
-  </head>
 
   <article class="flex-l flex-wrap justify-between medium center ph3">
     <header class="mt4 w-100">
@@ -19,7 +15,6 @@
           */}}
         {{with .CurrentSection.Title }}{{. | upper }}{{end}}
       </aside>
-      {{ partial "social-share.html" . }}
       <h1 class="f1 athelas mt3 mb1">
         {{- .Title -}}
       </h1>
