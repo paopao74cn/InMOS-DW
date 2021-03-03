@@ -5,6 +5,7 @@ featured: true
 draft: false
 weight: 1
 location: "Paris"
+featured_image:: '/images/gravity_waves_big.jpg'
 ---
 ## Advisor: François Lott in collaboration with R. Plougonven, H. Hertzog and A. Podglagen from LMD.
 

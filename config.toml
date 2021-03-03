@@ -12,6 +12,10 @@ theme="ananke"
  [params.jobs]
     summary_truncate = 12  # How many characters to include in the summary of the team bios (large layout) before truncating
 
+[params.Single]
+featured_image = '/images/gravity_waves_big.jpg'
+
+
 
 [menu]
   # Main Menu
