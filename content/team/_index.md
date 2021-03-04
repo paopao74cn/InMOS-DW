@@ -153,6 +153,16 @@ description: "Meet the Team"
     institute="MetOffice"
     workdesc="Global scale dynamics and teleconnections" >}}
 
+<!--  Qiang Sun  -->
+  {{<Profile_Creator  
+    imgpath="/images/team/Qiang_Sun.jpg"
+    name="Qiang Sun"
+    title="Research Scientist"
+    role="Joining Summer, 2021"
+    website="https://scholar.google.com/citations?user=IoIjsH8AAAAJ&hl=en"
+    institute="Princeton/GFDL"
+    workdesc="Gravity wave dynamics, high-resolution numerical simulation and/or prediction for gravity-wave events, and interested in how machine-learning might contribute to a better numerical model." >}}
+
 <!--  Brian Green  -->
 {{< Profile_Creator
       imgpath="/images/team/Brian_Green.jpg"
@@ -189,9 +199,20 @@ description: "Meet the Team"
     name="Ofer	Shamir"
     title="Postdoctoral Researcher"
     role="Starting June, 2021"
-    website="XXX"
+    website=" "
     institute="NYU"
     workdesc="Geophysical Fluid Dynamics" >}}
+
+  <!--  Minah	Yang  -->
+  {{< Profile_Creator  
+    imgpath="/images/team/Minah_Yang.jpg"
+    name="Minah	Yang"
+    title=" Postdoctoral Researcher "
+    role=" Start June, 2021 "
+    website="   "
+    institute=" NYU "
+    workdesc=" " >}}
+
 
 {{</ ProfileRegion >}}
 
@@ -199,12 +220,22 @@ description: "Meet the Team"
 
 {{< ProfileRegion >}}
 
+<!--  Karan	Jakhar  -->
+{{< Profile_Creator  
+  imgpath="/images/team/Karan_Jakhar.jpg"
+  name="Karan	Jakhar"
+  title="PhD Student"
+  role="Advised by Dr. Pedram Hassanzadeh"
+  website="https://pedram.rice.edu/team/"
+  institute=" Rice University "
+  workdesc="Data-driven equation discovery of subgrid-scale physics" >}}
+
 <!--  Zac Espinosa  -->
 {{< Profile_Creator
     imgpath="/images/team/Zac_Espinosa.jpg"
     name="Zac Espinosa"
     title="Graduate Research Assistant"
-    role=" "
+    role="Advised by Dr. Aditi Sheshadri"
     website="https://eddy.stanford.edu/people"
     institute=" Stanford School of Earth "
     workdesc="Applications of machine learning to inform and improve existing parameterizations in global climate models" >}}
@@ -222,7 +253,7 @@ description: "Meet the Team"
   role="Administrator for project and research assistant"
   website="https://eddy.stanford.edu/people"
   institute=" Stanford School or Earth "
-  workdesc=" Project administrator: organization and planning" >}}
+  workdesc="Project administrator: organization and planning" >}}
 
 {{</ ProfileRegion >}}
 
@@ -232,66 +263,46 @@ description: "Meet the Team"
 
 
 
-<!--  Minah	Yang  -->
-{{< Profile_Creator  
-  imgpath="/images/team/Minah_Yang.jpg"
-  name=" Minah	Yang"
-  title=" XXX "
-  role=" XXX "
-  website=" XXX "
-  institute=" NYU "
-  workdesc=" XXX " >}}
 
 <!--  Laura	Mansfield  -->
-{{< Profile_Creator  
+<!-- {{< Profile_Creator  
   imgpath="/images/team/Laura_Mansfield.jpg"
   name="Laura	Mansfield"
   title=" XXX "
   role=" XXX "
   website=" XXX "
   institute=" Stanford School of Earth "
-  workdesc=" XXX " >}}
-
-
-<!--  Karan	Jakhar  -->
-{{< Profile_Creator  
-  imgpath="/images/team/Karan_Jakhar.jpg"
-  name="Karan	Jakhar"
-  title=" XXX "
-  role=" XXX "
-  website=" XXX "
-  institute=" Rice University "
-  workdesc=" XXX " >}}
+  workdesc=" XXX " >}} -->
 
 <!--  Rachel	Prudden  -->
-  {{< Profile_Creator  
+  <!-- {{< Profile_Creator  
     imgpath="/images/team/Rachel_Prudden.jpg"
     name="Rachel	Prudden"
     title=" XXX "
     role=" XXX "
     website=" XXX "
     institute=" MetOffice "
-    workdesc=" XXX " >}}
+    workdesc=" XXX " >}} -->
 
 <!--  Alison	Grimsdell  -->
-  {{< Profile_Creator  
+  <!-- {{< Profile_Creator  
     imgpath="/images/team/Alison_Grimsdell.jpg"
     name="Alison Grimsdell"
     title=" XXX "
     role=" XXX "
     website=" XXX "
     institute=" NWRA "
-    workdesc=" XXX " >}}
+    workdesc=" XXX " >}} -->
 
 <!--  Albert	Hertzog  -->
-  {{< Profile_Creator  
+  <!-- {{< Profile_Creator  
     imgpath="/images/team/Albert_Hertzog.jpg"
     name="Albert Hertzog"
     title=" XXX "
     role=" XXX "
     website=" XXX "
     institute=" LMD/IPSL "
-    workdesc=" XXX " >}}
+    workdesc=" XXX " >}} -->
 
 
   <!-- {{< Profile_Creator  
