@@ -257,12 +257,7 @@ description: "Meet the Team"
 
 {{</ ProfileRegion >}}
 
-# Unplaced - In Progress
-
-{{< ProfileRegion >}}
-
-
-
+<!-- UNPLACED -->
 
 <!--  Laura	Mansfield  -->
 <!-- {{< Profile_Creator  
@@ -323,5 +318,3 @@ description: "Meet the Team"
     website=" XXX "
     institute=" LMD/IPSL "
     workdesc=" XXX " >}}    -->
-
-{{</ ProfileRegion >}}
