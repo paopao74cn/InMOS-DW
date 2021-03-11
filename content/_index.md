@@ -1,5 +1,5 @@
 ---
-title: "DaveWave: Collaborative Gravity Wave Research"
+title: "DataWave: Collaborative Gravity Wave Research"
 featured_image: '/images/gravity_waves_big.jpg'
 description: "An international consortium working on improving our understanding and representation of gravity waves"
 ---
