@@ -13,11 +13,25 @@
   width: 100%;
   height: auto;
   font-size: 2vh;
+  position: relative;
+  bottom: 0px;
+  right: 0px;
 }
 
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   border-radius: 8px 8px 8px 8px;
+  overflow: hidden;
+  position: relative;
+  justify-content: space-between;
+  flex-direction: column;
+  height: auto;
+  display: flex;
+}
+
+.container .btn-holder {
+  justify-content: flex-end;
+  display: flex;
 }
 
 .card:hover {
@@ -38,6 +52,9 @@
   transform: skewY(-3deg);
   transform-origin: bottom right;
   text-align: center;
+  position: absolute;
+  right: 0;
+  bottom: 0;
 }
 
 .button:hover {
@@ -66,7 +83,9 @@
   </div>
 
 </div>
+<div class="btn-holder">
 <a class="button" href="{{ .Permalink }}">
   Learn more
 </a>
+</div>
 </div>
