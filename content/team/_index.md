@@ -173,15 +173,7 @@ description: "Meet the Team"
       institute="Stanford School of Earth"
       workdesc="Analysis of gravity waves using loon observation data" >}}
 
-<!--  Martina	Bramberger  -->
-{{< Profile_Creator  
-  imgpath="/images/team/Martina_Bramberger.jpg"
-  name="Martina	Bramberger"
-  title=" "
-  role="Postdoctoral Researcher"
-  website="https://www.nwra.com/people/327/"
-  institute="NorthWest Research Associates"
-  workdesc="Analysis of gravity waves and their momentum flux with observational data" >}}
+
 
   <!--  Lubis	Sandro  -->
   {{< Profile_Creator  
@@ -245,6 +237,16 @@ description: "Meet the Team"
   website="   "
   institute=" NYU "
   workdesc=" " >}}
+
+<!--  Martina	Bramberger  -->
+{{< Profile_Creator  
+  imgpath="/images/team/Martina_Bramberger.jpg"
+  name="Martina	Bramberger"
+  title=" "
+  role="Postdoctoral Researcher"
+  website="https://www.nwra.com/people/327/"
+  institute="NorthWest Research Associates"
+  workdesc="Analysis of gravity waves and their momentum flux with observational data" >}}
 
 {{</ ProfileRegion >}}
 
