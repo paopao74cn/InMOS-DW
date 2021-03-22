@@ -1,7 +1,7 @@
 ---
-title: "Research"
+title: "Background"
 date: 2021-03-01T12:00:00-05:00
-description: "Publications from or about DataWave"
+description: "Project Goals"
 ---
 1. [Tasks](#tasks)
     1. [Loon Observations and Gravity Wave Momentum Flux Estimates](#task1)
