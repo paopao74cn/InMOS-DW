@@ -203,16 +203,6 @@ description: "Meet the Team"
     institute="NYU"
     workdesc="Geophysical Fluid Dynamics" >}}
 
-  <!--  Minah	Yang  -->
-  {{< Profile_Creator  
-    imgpath="/images/team/Minah_Yang.jpg"
-    name="Minah	Yang"
-    title=" Postdoctoral Researcher "
-    role=" Start June, 2021 "
-    website="   "
-    institute=" NYU "
-    workdesc=" " >}}
-
 
 {{</ ProfileRegion >}}
 
@@ -239,6 +229,22 @@ description: "Meet the Team"
     website="https://eddy.stanford.edu/people"
     institute=" Stanford School of Earth "
     workdesc="Applications of machine learning to inform and improve existing parameterizations in global climate models" >}}
+
+{{</ ProfileRegion >}}
+
+# Collaborators
+
+{{< ProfileRegion >}}
+
+<!--  Minah	Yang  -->
+{{< Profile_Creator  
+  imgpath="/images/team/Minah_Yang.jpg"
+  name="Minah	Yang"
+  title=" Postdoctoral Researcher "
+  role=" Starting June, 2021 "
+  website="   "
+  institute=" NYU "
+  workdesc=" " >}}
 
 {{</ ProfileRegion >}}
 
