@@ -5,13 +5,19 @@ featured: true
 draft: false
 weight: 1
 location: "Frankfurt, Germany"
-featured_image:: '/images/gravity_waves_big.jpg'
+featured_image:: '/images/schools/Goethe_square.png'
 ---
-## Advisor: Prof. Dr. Ulrich Achatz                                                   
+{{< rawhtml >}}
+<div>
+<img src="/Jobs/images/Goethe_square.png" alt="tesr" style="float:left;width:25%;height:25%;padding:0 25px 0 0;">
+<h2> Advisor: Prof. Dr. Ulrich Achatz </h2>       
+<!--  -->
+<a href="/pdfs/postdoc_Ulrich.pdf">PDF Here</a>
 
-[PDF here](/pdfs/postdoc_Ulrich.pdf)
-
-A 2-year post doctoral position is opening in the research group *Theory of Atmospheric Dynamics and Climate* at the Institute of Atmospheric and Environmental Sciences of the [Goethe University](https://frankfurt.de/english/about-frankfurt) to be filled as soon as possible. The field of research shall be the theory of the nonlinear dynamics of atmospheric gravity waves and their efficient representation in models. The focus will be on mountain waves in the advanced parameterization framework MS-GWaM in the weather-forecast and climate code UA-ICON.
+<p> A 2-year post doctoral position is opening in the research group <i>Theory of Atmospheric Dynamics and Climate</i> at the Institute of Atmospheric and Environmental Sciences of the <a href="https://frankfurt.de/english/about-frankfurt">Goethe University</a> to be filled as soon as possible. The field of research shall be the theory of the nonlinear dynamics of atmospheric gravity waves and their efficient representation in models. The focus will be on mountain waves in the advanced parameterization framework MS-GWaM in the weather-forecast and climate code UA-ICON.
+</p>
+</div>
+{{< /rawhtml >}}
 <!--more-->
 
 The candidate will help developing and code a parameterization for the gravity-wave source due to mountains into UA-ICON/MS-GWaM, use machine learning (ML) for optimizing it in comparison with observations and wave-resolving simulations, and collaborate with other groups on the use of UA-ICON/MS-GWaM for training ML-based gravity-wave parameterizations. Contributions to related theoretical work in the group would be welcome. This work will be embedded in the collaborative project DataWave (https://datawaveproject.github.io/) with international partners including Stanford University, New York University, Rice University in Houston, the UK Met Office, the École Normale Supérieure in Paris, and the Max-Planck Institute for Meteorology in Hamburg, involving novel balloon-based observations, model simulations, theoretical work, and ML.

@@ -64,7 +64,4 @@ A  second  focus  will  be  on  the  role  of  GWP  on  the  climatology  and  v
 
 Finally, we will consider the response of the tropospheric jets, vortex, and QB Oto  idealized  climate  change  scenario  experiments,  particularly  the  instantaneous  4xCO2integrations in the CMIP6 DECK profiles.  The DynVarMIP *(Gerber and Manzini, 2016)* provides diagnostics of GW momentum deposition, allowing for an explicit comparison with CMIP6 models.
 
-
-
-
 # Publications {#publications}

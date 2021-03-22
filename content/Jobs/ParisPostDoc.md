@@ -7,9 +7,16 @@ weight: 1
 location: "Paris"
 featured_image:: '/images/gravity_waves_big.jpg'
 ---
-## Advisor: François Lott in collaboration with R. Plougonven, H. Hertzog and A. Podglagen from LMD.
+{{< rawhtml >}}
+<div>
+<img src="/Jobs/images/LMD_square.png" alt="logo" style="float:left;width:25%;height:25%;padding:0 25px 0 0;">
+<h2> Advisor: François Lott in collaboration with R. Plougonven, H. Hertzog and A. Podglagen from LMD. </h2>       
+<!--  -->
 
-A 2-year post doctoral position is opening at the “Laboratoire de Meteorologie Dynamique” to work on the parameterization of atmospheric gravity waves in the IPSL Climate model. The candidate will develop off-line versions of the operational subgrid scale parameterizations of gravity waves that are related to mountains (Lott and Miller 1997), convection (Lott and Guez 2013) and fronts (de la Camara and Lott 2016) and guide them with analysis field from  ECMWF.
+<p> A 2-year post doctoral position is opening at the “Laboratoire de Meteorologie Dynamique” to work on the parameterization of atmospheric gravity waves in the IPSL Climate model. The candidate will develop off-line versions of the operational subgrid scale parameterizations of gravity waves that are related to mountains (Lott and Miller 1997), convection (Lott and Guez 2013) and fronts (de la Camara and Lott 2016) and guide them with analysis field from  ECMWF.
+</p>
+</div>
+{{< /rawhtml >}}
 <!--more-->
 
 The candidate will then vary the parameters of the schemes to give the best fit against balloon observations. Then, the IPSL model will be launched over long periods (climate), and the impact of the updated scheme on various key climate modes will be tested. The candidate will then test if the changes made in the parameterization impact the model climate in climate change scenarios.
