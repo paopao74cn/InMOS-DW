@@ -158,10 +158,20 @@ description: "Meet the Team"
     imgpath="/images/team/Qiang_Sun.jpg"
     name="Qiang Sun"
     title="Research Scientist"
-    role="Joining Summer, 2021"
+    role=" "
     website="https://scholar.google.com/citations?user=IoIjsH8AAAAJ&hl=en"
     institute="Princeton/GFDL"
     workdesc="Gravity wave dynamics, high-resolution numerical simulation and/or prediction for gravity-wave events, and interested in how machine-learning might contribute to a better numerical model." >}}
+
+<!--  Chris Kruse  -->
+  {{<Profile_Creator  
+    imgpath="/images/team/Chris_Kruse.jpg"
+    name="Chris Kruse"
+    title="Research Scientist"
+    role=" "
+    website="https://www.nwra.com/people/362/"
+    institute="NWRA"
+    workdesc="I have expertise in atmospheric dynamics mountain, meteorology, gravity waves, and parameterization" >}}
 
 <!--  Brian Green  -->
 {{< Profile_Creator
@@ -190,7 +200,7 @@ description: "Meet the Team"
     imgpath="/images/team/Ofer_Shamir.jpg"
     name="Ofer	Shamir"
     title="Postdoctoral Researcher"
-    role="Starting June, 2021"
+    role=""
     website=" "
     institute="NYU"
     workdesc="Geophysical Fluid Dynamics" >}}
@@ -233,7 +243,7 @@ description: "Meet the Team"
   imgpath="/images/team/Minah_Yang.jpg"
   name="Minah	Yang"
   title=" Postdoctoral Researcher "
-  role=" Starting June, 2021 "
+  role=" "
   website="   "
   institute=" NYU "
   workdesc=" " >}}
