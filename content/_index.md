@@ -5,7 +5,7 @@ description: "An international consortium working on improving our understanding
 ---
 
 Atmospheric gravity waves (GWs) play an important role in the exchange of momentumbetween the Earth’s surface and the free atmosphere. Uncertainties in gravity wave momentum transport limit our ability to predict the response of the tropospheric and stratospheric circulation to global warming and impact subseasonal-to-seasonal forecasts. Current state-of-the-art parameterizations are severely limited by computational necessity and the scarcity of observations.
-
+ 
 The DataWave project is focused on improving our modeling capability for gravity waves and the large scale circulation, and particularly to lead to novel observationally constrained and data-driven gravity wave parameterization schemes.
 
 ## Main Objectives
