@@ -6,7 +6,7 @@ googleAnalytics = "G-C7R59RGNK9"
 
 [params]
   # In most cases you will only want to use either one of these. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
-  googleAnalytics = "G-C7R59RGNK9"
+  googleAnalytics = 'G-C7R59RGNK9'
   featured_image = '/images/gravity_waves_big.jpg'
 
  [params.jobs]
