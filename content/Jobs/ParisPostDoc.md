@@ -3,7 +3,7 @@ title: "[Filled] Post-Doc Position at LMD/ENS (Paris) "
 date: 2021-03-01
 featured: true
 draft: false
-weight: 1
+weight: 20
 location: "Paris"
 featured_image:: '/images/gravity_waves_big.jpg'
 ---
