@@ -42,3 +42,4 @@ featured_image:: "/images/cover/<#Your image here#>.png"
 
 More extensive description of job which can be written in markdown, as opposed to the lines above, which are in HTML
 ```
+5. Commit changes (publish) and a github pages routine will finish in the background, recompling the site and uploading your new page within a few minutes. If you don't see your new page in 6-7 minutes, clear your cache and cookies and re-load the Datawave page. 
