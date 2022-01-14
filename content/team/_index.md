@@ -204,6 +204,16 @@ description: "Meet the Team"
     website=" "
     institute="NYU"
     workdesc="Geophysical Fluid Dynamics" >}}
+    
+ <!--  Laura Köhler  -->
+ {{< Profile_Creator  
+    imgpath="/images/team/Laura_Kohler.jpg"
+    name="Laura Köhler"
+    title="Postdoctoral Researcher"
+    role=""
+    website=" "
+    institute="MPI"
+    workdesc="High-resolution global ICON simulations for training and assessing ML approaches on GW, comparison of superpressure balloon data with the models." >}}
 
 
 {{</ ProfileRegion >}}
