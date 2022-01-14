@@ -201,7 +201,7 @@ description: "Meet the Team"
     name="Ofer	Shamir"
     title="Postdoctoral Researcher"
     role=""
-    website=" "
+    website="https://caos.cims.nyu.edu/dynamic/people/postdocs-and-visitors/"
     institute="NYU"
     workdesc="Geophysical Fluid Dynamics" >}}
     
@@ -211,7 +211,7 @@ description: "Meet the Team"
     name="Laura Köhler"
     title="Postdoctoral Researcher"
     role=""
-    website=" "
+    website="https://mpimet.mpg.de/en/science/independent-research-groups/cloud-wave-coupling"
     institute="MPI"
     workdesc="High-resolution global ICON simulations for training and assessing ML approaches on GW, comparison of superpressure balloon data with the models." >}}
 
