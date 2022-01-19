@@ -289,7 +289,7 @@ description: "Meet the Team"
   title="Project Admin + Research Assistant"
   role="Administrator for project and research assistant"
   website="https://eddy.stanford.edu/people"
-  institute=" Stanford School or Earth "
+  institute=" Stanford School of Earth "
   workdesc="Project administrator: organization and planning" >}}
 
 {{</ ProfileRegion >}}
@@ -304,6 +304,16 @@ description: "Meet the Team"
     role=" XXX "
     website=" XXX "
     institute=" MetOffice "
+    workdesc=" XXX " >}} -->
+    
+<!--  Catherine	Wilka  -->
+  <!-- {{< Profile_Creator  
+    imgpath="/images/team/Catherine_Wilka.jpg"
+    name="Catherine Wilka"
+    title="  "
+    role=" Postdoctoral Researcher "
+    website=" https://eddy.stanford.edu/people "
+    institute=" Stanford School of Earth"
     workdesc=" XXX " >}} -->
 
 <!--  Alison	Grimsdell  -->
