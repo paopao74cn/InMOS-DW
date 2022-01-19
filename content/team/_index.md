@@ -216,14 +216,14 @@ description: "Meet the Team"
     workdesc="High-resolution global ICON simulations for training and assessing ML approaches on GW, comparison of superpressure balloon data with the models." >}}
 
 <!--  Laura	Mansfield  -->
-<!-- {{< Profile_Creator  
+{{< Profile_Creator  
   imgpath="/images/team/Laura_Mansfield.png"
   name="Laura	Mansfield"
   title="  "
   role=" Postdoctoral Researcher "
   website=" https://eddy.stanford.edu/ "
   institute=" Stanford School of Earth "
-  workdesc=" Uncertainty quantification and calibration of gravity wave parameterizations " >}} -->
+  workdesc=" Uncertainty quantification and calibration of gravity wave parameterizations " >}}
 
 {{</ ProfileRegion >}}
 
