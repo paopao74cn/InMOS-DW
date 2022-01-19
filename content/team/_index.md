@@ -215,6 +215,15 @@ description: "Meet the Team"
     institute="MPI"
     workdesc="High-resolution global ICON simulations for training and assessing ML approaches on GW, comparison of superpressure balloon data with the models." >}}
 
+<!--  Laura	Mansfield  -->
+<!-- {{< Profile_Creator  
+  imgpath="/images/team/Laura_Mansfield.png"
+  name="Laura	Mansfield"
+  title="  "
+  role=" Postdoctoral Researcher "
+  website=" https://eddy.stanford.edu/ "
+  institute=" Stanford School of Earth "
+  workdesc=" Uncertainty quantification and calibration of gravity wave parameterizations " >}} -->
 
 {{</ ProfileRegion >}}
 
@@ -286,16 +295,6 @@ description: "Meet the Team"
 {{</ ProfileRegion >}}
 
 <!-- UNPLACED -->
-
-<!--  Laura	Mansfield  -->
-<!-- {{< Profile_Creator  
-  imgpath="/images/team/Laura_Mansfield.jpg"
-  name="Laura	Mansfield"
-  title=" XXX "
-  role=" XXX "
-  website=" XXX "
-  institute=" Stanford School of Earth "
-  workdesc=" XXX " >}} -->
 
 <!--  Rachel	Prudden  -->
   <!-- {{< Profile_Creator  
