@@ -231,6 +231,16 @@ description: "Meet the Team"
 
 {{< ProfileRegion >}}
 
+<!--  Dave	Connelly  -->
+{{< Profile_Creator  
+    imgpath="/images/team/Dave_Connelly.jpg"
+    name="Dave	Connelly"
+    title=" PhD student "
+    role=" Advised by Dr. Ed Gerber "
+    website=" https://caos.cims.nyu.edu/dynamic/people/postdocs-and-visitors/ "
+    institute=" NYU "
+    workdesc=" Development and calibration of data-driven gravity wave parameterizations, with a particular focus on regression tree approaches " >}}
+
 <!--  Karan	Jakhar  -->
 {{< Profile_Creator  
   imgpath="/images/team/Karan_Jakhar.jpg"
@@ -256,6 +266,16 @@ description: "Meet the Team"
 # Collaborators
 
 {{< ProfileRegion >}}
+
+<!--  Ashesh Chattopadhyay  -->
+{{< Profile_Creator  
+    imgpath="/images/team/Ashesh_Chattopadhyay.jpg"
+    name="Ashesh Chattopadhyay"
+    title=" Advised by Dr. Pedram Hassanzadeh "
+    role=" PhD student "
+    website=" https://caos.cims.nyu.edu/dynamic/people/postdocs-and-visitors/ "
+    institute=" Rice "
+    workdesc=" The intersection of theoretical deep learning, dynamical systems, and turbulence modeling to improve weather and climate models  " >}}
 
 <!--  Minah	Yang  -->
 {{< Profile_Creator  
@@ -326,15 +346,15 @@ description: "Meet the Team"
     institute=" NWRA "
     workdesc=" XXX " >}} -->
 
-<!--  Albert	Hertzog  -->
+<!--  Ashesh Chattopadhyay  -->
   <!-- {{< Profile_Creator  
-    imgpath="/images/team/Albert_Hertzog.jpg"
-    name="Albert Hertzog"
-    title=" XXX "
-    role=" XXX "
-    website=" XXX "
-    institute=" LMD/IPSL "
-    workdesc=" XXX " >}} -->
+    imgpath="/images/team/Ashesh_Chattopadhyay.jpg"
+    name="Ashesh Chattopadhyay"
+    title=" Advised by Dr. Pedram Hassanzadeh "
+    role=" PhD student "
+    website=" https://caos.cims.nyu.edu/dynamic/people/postdocs-and-visitors/ "
+    institute=" Rice "
+    workdesc=" The intersection of theoretical deep learning, dynamical systems, and turbulence modeling to improve weather and climate models  " >}} -->
 
 
   <!-- {{< Profile_Creator  
