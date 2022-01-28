@@ -1,5 +1,5 @@
 ---
-title: "[Filled] PhD Position at Goethe Universität Frankfurt"
+title: "PhD Position at Goethe Universität Frankfurt"
 date: 2021-03-15
 featured: true
 draft: false
@@ -39,5 +39,3 @@ Applicants should send via e-mail to [Ulrich Achatz]({{< ref "/Team/" >}}):
 1. a statement of research experience, qualification and interest
 2. a complete CV
 3. at least two contacts who would agree to send a letter of recommendation.
-
-Information should be submitted by 30.4.21. Applications will be considered beyond this date until the post has been filled.
