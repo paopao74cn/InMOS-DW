@@ -1,11 +1,11 @@
 ---
 date: 2022-02-21
-description: " PI highlight: Aditi Sheshadri "
+description: " Stanford University School of Earth, Energy, and Environmental Science "
 featured_image: "/images/schools/Stanford-University-Logo.png"
 title: "PI highlight: Aditi Sheshadri"
-title2: " Stanford University School of Earth, Energy, and Environmental Science "
+title2: " PI Highlight: Aditi Sheshadri"
 ---
-### Written by Meaghan Boehm
+#### Written by Meaghan Boehm
 Aditi Sheshadri, based at Stanford University, is DataWave’s lead PI. Prior to DataWave, Sheshadri studied atmospheric dynamics involving the jetstream and the polar vortex. Using this background, Sheshadri took on the role of Coordinating PI and Head of Task 1: Loon Observations and Gravity Wave Momentum Flux Estimates. She works with her group to analyze previously untouched high resolution Loon balloon data with the goal of integrating the data into climate model’s parameterizations of gravity waves. 
 <!--more-->
 
