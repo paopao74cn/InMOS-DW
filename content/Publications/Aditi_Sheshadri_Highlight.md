@@ -1,6 +1,6 @@
 ---
-date: 2022-02-23
-description: " "
+date: 2022-02-21
+description: " PI highlight: Aditi Sheshadri "
 featured_image: "/images/schools/Stanford-University-Logo.png"
 title: "PI highlight: Aditi Sheshadri"
 title2: " Stanford University School of Earth, Energy, and Environmental Science "
