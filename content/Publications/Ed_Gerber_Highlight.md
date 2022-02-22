@@ -1,6 +1,6 @@
 ---
 date: 2022-02-22
-description: " NYU Courant Institute "
+description: " PI Highlight: Ed Gerber "
 featured_image: "/images/schools/nyu-logo.jpeg"
 title: "PI highlight: Ed Gerber"
 title2: " NYU Courant Institute "
