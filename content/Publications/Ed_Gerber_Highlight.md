@@ -1,9 +1,9 @@
 ---
 date: 2022-02-22
-description: " PI Highlight: Ed Gerber "
+description: "  NYU Courant Institute "
 featured_image: "/images/schools/nyu-logo.jpeg"
 title: "PI highlight: Ed Gerber"
-title2: " NYU Courant Institute "
+title2: "PI Highlight: Ed Gerber"
 ---
 #### Written by Lucy Gagnon
 Datawave co-PI Ed Gerber focuses on atmospheric dynamics and idealized modeling, and is deeply interested in global circulation and how weather systems respond to warming. Gerber is co-head of Datawave Task 5: Gravity Wave Impacts in climate projections, and outside the project he considers the effect of heat waves and precipitation changes on wind structures in the stratosphere. Within Datawave, they specifically address atmospheric gravity waves through data-driven parameterizations, which involves implementation of machine learning applied to parameterizations of various scales, "from city-sized grid blocks to larger regions represented by multiple grid blocks". He’s interested in coupling these parameterizations with climate modeling to develop more reliable climate predictions.
