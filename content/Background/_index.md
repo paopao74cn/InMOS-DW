@@ -3,6 +3,7 @@ title: "Background"
 date: 2021-03-01T12:00:00-05:00
 description: "Project Goals"
 ---
+# Table of Contents
 1. [Tasks](#tasks)
     1. [Loon Observations and Gravity Wave Momentum Flux Estimates](#task1)
     2. [High-resolution Model Simulations of Gravity Waves](#task2)
