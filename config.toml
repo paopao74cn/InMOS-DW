@@ -9,7 +9,7 @@ googleAnalytics = "G-C7R59RGNK9"
   googleAnalytics = 'G-C7R59RGNK9'
   featured_image = '/images/gravity_waves_big.jpg'
   favicon = "/favicon-32x32.png"
-  site_logo = "/favicon-32x32.png"
+  site_logo = "/android-chrome-512x512.png"
   
  [params.jobs]
     summary_truncate = 12  # How many characters to include in the summary of the team bios (large layout) before truncating
