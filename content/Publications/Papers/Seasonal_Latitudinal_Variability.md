@@ -5,6 +5,9 @@ featured_image: "/images/Data_Images/Seasonal.png"
 title: "Seasonal and Latitudinal Variability of the Gravity Wave Spectrum in the Lower Stratosphere"
 title2: " "
 ---
+## Authors
+Erik A. Lindgren, ***Aditi Sheshadri***, ***Aurélien Podglajen***, Robert W. Carver
+
 [Read the full paper here](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD032850)
 ## Abstract:
 Superpressure balloon data of unprecedented coverage from Loon LLC is used to investigate the seasonal and latitudinal variability of lower stratospheric gravity waves over the entire intrinsic frequency spectrum. We show that seasonal variability in both gravity wave amplitudes and spectral slopes exist for a wide range of intrinsic frequencies and provide estimates of spectral slopes in five latitudinal regions for all four seasons, in five different frequency windows.
