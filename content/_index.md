@@ -17,4 +17,3 @@ The first objective is to make available a potentially transformational data sou
 #### 2: Machine Learning
 The second objective is to use machine learning to develop one- and three- dimensional data-driven gravity wave parametrizations to more accurately and efficiently represent gravity wave momentum fluxes.
 
-Running until 2025
