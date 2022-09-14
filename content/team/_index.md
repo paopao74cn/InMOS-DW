@@ -237,8 +237,8 @@ description: "Meet the Team"
 {{< Profile_Creator  
   imgpath="/images/team/Aman_Gupta.jpg"
   name="Aman Gupta"
-  title="  "
-  role=" Postdoctoral Researcher "
+  title="Postdoctoral Researcher"
+  role=" "
   website=" https://eddy.stanford.edu/ "
   institute=" Stanford School of Earth "
   workdesc=" " >}}
