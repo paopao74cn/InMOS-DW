@@ -159,8 +159,8 @@ description: "Meet the Team"
     name="Qiang Sun"
     title="Research Scientist"
     role=" "
-    website="https://scholar.google.com/citations?user=IoIjsH8AAAAJ&hl=en"
-    institute="Princeton/GFDL"
+    website="https://pedram.rice.edu/team/"
+    institute="Rice University"
     workdesc="Gravity wave dynamics, high-resolution numerical simulation and/or prediction for gravity-wave events, and interested in how machine-learning might contribute to a better numerical model." >}}
 
 <!--  Chris Kruse  -->
@@ -174,26 +174,24 @@ description: "Meet the Team"
     workdesc="I have expertise in atmospheric dynamics mountain, meteorology, gravity waves, and parameterization" >}}
 
 <!--  Brian Green  -->
-{{< Profile_Creator
-      imgpath="/images/team/Brian_Green.jpg"
-      name="Brian Green"
-      title=""
-      role="Postdoctoral Researcher"
-      website="https://eddy.stanford.edu/people"
-      institute="Stanford School of Earth"
-      workdesc="Analysis of gravity waves using loon observation data" >}}
+  {{< Profile_Creator
+    imgpath="/images/team/Brian_Green.jpg"
+    name="Brian Green"
+    title=""
+    role="Postdoctoral Researcher"
+    website="https://eddy.stanford.edu/people"
+    institute="Stanford School of Earth"
+    workdesc="Analysis of gravity waves using loon observation data" >}}
 
-
-
-  <!--  Lubis	Sandro  -->
+  <!--  Hamid	Pahlavan  -->
   {{< Profile_Creator  
-    imgpath="/images/team/Sandro_Lubis.jpg"
-    name="Sandro Lubis"
-    title="Postdoctoral Researcher"
+    imgpath="/images/team/Hamid_Pahlavan.jpg"
+    name="Hamid Pahlavan"
+    title="Junior Fellow"
     role=""
     website="https://pedram.rice.edu/team/"
     institute="Rice University"
-    workdesc="Dynamics of large-wave events, eddy-mean flow interaction, ozone-gravity wave interaction" >}}
+    workdesc=" " >}}
 
   <!--  Ofer	Shamir  -->
   {{< Profile_Creator  
@@ -219,11 +217,31 @@ description: "Meet the Team"
 {{< Profile_Creator  
   imgpath="/images/team/Laura_Mansfield.png"
   name="Laura	Mansfield"
+  title="Postdoctoral Researcher "
+  role=" "
+  website=" https://eddy.stanford.edu/ "
+  institute=" Stanford School of Earth "
+  workdesc=" Uncertainty quantification and calibration of gravity wave parameterizations " >}}
+
+<!--  Ray Chew  -->
+{{< Profile_Creator  
+  imgpath="/images/team/Ray_Chew.jpg"
+  name="Ray Chew"
+  title="Postdoctoral Researcher"
+  role=" "
+  website=" "
+  institute=" Goethe University "
+  workdesc="  " >}}
+
+<!--  Aman Gupta  -->
+{{< Profile_Creator  
+  imgpath="/images/team/Aman_Gupta.png"
+  name="Aman Gupta"
   title="  "
   role=" Postdoctoral Researcher "
   website=" https://eddy.stanford.edu/ "
   institute=" Stanford School of Earth "
-  workdesc=" Uncertainty quantification and calibration of gravity wave parameterizations " >}}
+  workdesc=" " >}}
 
 {{</ ProfileRegion >}}
 
@@ -235,9 +253,9 @@ description: "Meet the Team"
 {{< Profile_Creator  
     imgpath="/images/team/Dave_Connelly.jpg"
     name="Dave	Connelly"
-    title=" PhD student "
+    title=" PhD Student "
     role=" Advised by Dr. Ed Gerber "
-    website=" https://caos.cims.nyu.edu/dynamic/people/postdocs-and-visitors/ "
+    website="https://caos.cims.nyu.edu/dynamic/people/phd-students/"
     institute=" NYU "
     workdesc=" Development and calibration of data-driven gravity wave parameterizations, with a particular focus on regression tree approaches " >}}
 
@@ -251,15 +269,25 @@ description: "Meet the Team"
   institute=" Rice University "
   workdesc="Data-driven equation discovery of subgrid-scale physics" >}}
 
-<!--  Zac Espinosa  -->
-{{< Profile_Creator
-    imgpath="/images/team/Zac_Espinosa.jpg"
-    name="Zac Espinosa"
-    title="Graduate Research Assistant"
-    role="Advised by Dr. Aditi Sheshadri"
-    website="https://eddy.stanford.edu/people"
-    institute=" Stanford School of Earth "
-    workdesc="Applications of machine learning to inform and improve existing parameterizations in global climate models" >}}
+<!--  Rob	Christopher King  -->
+{{< Profile_Creator  
+  imgpath="/images/team/Rob_King.png"
+  name="Rob Christopher	King"
+  title="PhD Student"
+  role="Advised by Dr. Aditi Sheshadri"
+  website=" https://eddy.stanford.edu/ "
+  institute=" Stanford School of Earth "
+  workdesc=" " >}}
+
+<!--  Moein	Darman  -->
+  {{< Profile_Creator  
+    imgpath="/images/team/Moein_Darman.jpg"
+    name="Moein Darman"
+    title="PhD Student"
+    role="Advised by Dr. Pedram Hassanzadeh"
+    website="https://pedram.rice.edu/team/"
+    institute="Rice University"
+    workdesc=" " >}}
 
 {{</ ProfileRegion >}}
 
@@ -271,8 +299,8 @@ description: "Meet the Team"
 {{< Profile_Creator  
     imgpath="/images/team/Ashesh_Chattopadhyay.jpg"
     name="Ashesh Chattopadhyay"
-    title=" Advised by Dr. Pedram Hassanzadeh "
-    role=" PhD student "
+    title="PhD Student"
+    role="Advised by Dr. Pedram Hassanzadeh"
     website=" https://caos.cims.nyu.edu/dynamic/people/postdocs-and-visitors/ "
     institute=" Rice "
     workdesc=" The intersection of theoretical deep learning, dynamical systems, and turbulence modeling to improve weather and climate models  " >}}
@@ -283,7 +311,7 @@ description: "Meet the Team"
   name="Minah	Yang"
   title=" Postdoctoral Researcher "
   role=" "
-  website="   "
+  website="https://caos.cims.nyu.edu/dynamic/people/postdocs-and-visitors/"
   institute=" NYU "
   workdesc=" " >}}
 
@@ -291,11 +319,81 @@ description: "Meet the Team"
 {{< Profile_Creator  
   imgpath="/images/team/Martina_Bramberger.jpg"
   name="Martina	Bramberger"
-  title=" "
-  role="Postdoctoral Researcher"
+  title="Postdoctoral Researcher"
+  role=" "
   website="https://www.nwra.com/people/327/"
   institute="NorthWest Research Associates"
   workdesc="Analysis of gravity waves and their momentum flux with observational data" >}}
+
+<!--  Catherine	Wilka  -->
+{{< Profile_Creator  
+  imgpath="/images/team/Catherine_Wilka.jpg"
+  name="Catherine Wilka"
+  title="  "
+  role=" Postdoctoral Researcher "
+  website=" https://eddy.stanford.edu/people "
+  institute=" Stanford School of Earth"
+  workdesc="  " >}}
+
+<!--  Nolan Reilly -->
+{{< Profile_Creator  
+  imgpath="/images/team/Nolan_Reilly.jpg"
+  name="Nolan Reilly"
+  title="PhD Student"
+  role="Advised by "
+  website="https://caos.cims.nyu.edu/dynamic/people/phd-students/"
+  institute=" NYU "
+  workdesc=" " >}}
+
+<!--  Aled Owen  -->
+{{< Profile_Creator  
+  imgpath="/images/team/Aled_Owen.jpg"
+  name="Aled Owen"
+  title=" "
+  role=" "
+  website=" https://www.metoffice.gov.uk/ "
+  institute=" Met Office "
+  workdesc="  " >}}
+
+<!-- Alison Grimsdell  -->
+  {{<Profile_Creator  
+    imgpath="/images/team/Alison_Grimsdell.jpg"
+    name="Alison Grimsdell"
+    title="Research Scientist"
+    role=" "
+    website="https://www.nwra.com/people/144/"
+    institute="NWRA"
+    workdesc=" " >}}
+
+<!--  Samantha Adams  -->
+{{< Profile_Creator  
+  imgpath="/images/team/Samantha_Adams.jpg"
+  name="Samantha Adams"
+  title=" "
+  role=" "
+  website="https://www.researchgate.net/profile/Samantha-Adams-4"
+  institute=" Met Office "
+  workdesc="  " >}}
+
+<!--  Albert Hertzog  -->
+{{< Profile_Creator  
+    imgpath="/images/team/Albert_Hertzog.jpg"
+    name="Albert Hertzog"
+    title="  "
+    role="  "
+    website=" "
+    institute=" LMD/IPSL "
+    workdesc="  " >}}
+
+<!--  Raj Rani  -->
+{{< Profile_Creator  
+  imgpath="/images/team/Raj_Rani.jpg"
+  name="Raj Rani"
+  title="  "
+  role="  "
+  website=" "
+  institute=" LMD/IPSL "
+  workdesc=" " >}} 
 
 {{</ ProfileRegion >}}
 
@@ -315,46 +413,6 @@ description: "Meet the Team"
 {{</ ProfileRegion >}}
 
 <!-- UNPLACED -->
-
-<!--  Rachel	Prudden  -->
-  <!-- {{< Profile_Creator  
-    imgpath="/images/team/Rachel_Prudden.jpg"
-    name="Rachel	Prudden"
-    title=" XXX "
-    role=" XXX "
-    website=" XXX "
-    institute=" MetOffice "
-    workdesc=" XXX " >}} -->
-
-<!--  Catherine	Wilka  -->
-  <!-- {{< Profile_Creator  
-    imgpath="/images/team/Catherine_Wilka.jpg"
-    name="Catherine Wilka"
-    title="  "
-    role=" Postdoctoral Researcher "
-    website=" https://eddy.stanford.edu/people "
-    institute=" Stanford School of Earth"
-    workdesc=" XXX " >}} -->
-
-<!--  Alison	Grimsdell  -->
-  <!-- {{< Profile_Creator  
-    imgpath="/images/team/Alison_Grimsdell.jpg"
-    name="Alison Grimsdell"
-    title=" XXX "
-    role=" XXX "
-    website=" XXX "
-    institute=" NWRA "
-    workdesc=" XXX " >}} -->
-
-<!--  Ashesh Chattopadhyay  -->
-  <!-- {{< Profile_Creator  
-    imgpath="/images/team/Ashesh_Chattopadhyay.jpg"
-    name="Ashesh Chattopadhyay"
-    title=" Advised by Dr. Pedram Hassanzadeh "
-    role=" PhD student "
-    website=" https://caos.cims.nyu.edu/dynamic/people/postdocs-and-visitors/ "
-    institute=" Rice "
-    workdesc=" The intersection of theoretical deep learning, dynamical systems, and turbulence modeling to improve weather and climate models  " >}} -->
 
 
   <!-- {{< Profile_Creator  
