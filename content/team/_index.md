@@ -304,10 +304,10 @@ description: "Meet the Team"
 {{< ProfileRegion >}}
 
 {{< Profile_Creator  
-  imgpath="/images/team/Marshall_Borrus.jpg"
-  name="Niku D"
+  imgpath="/images/team/Niku_Darafshi.jpg"
+  name="Niku Darafshi"
   title="Project Admin + Research Assistant"
-  role="Administrator for project and research assistant"
+  role=" "
   website="https://eddy.stanford.edu/people"
   institute=" Stanford School of Earth "
   workdesc="Project administrator: organization and planning" >}}
