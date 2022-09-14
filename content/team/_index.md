@@ -235,7 +235,7 @@ description: "Meet the Team"
 
 <!--  Aman Gupta  -->
 {{< Profile_Creator  
-  imgpath="/images/team/Aman_Gupta.png"
+  imgpath="/images/team/Aman_Gupta.jpg"
   name="Aman Gupta"
   title="  "
   role=" Postdoctoral Researcher "
@@ -271,7 +271,7 @@ description: "Meet the Team"
 
 <!--  Rob	Christopher King  -->
 {{< Profile_Creator  
-  imgpath="/images/team/Rob_King.png"
+  imgpath="/images/team/Rob_King.jpg"
   name="Rob Christopher	King"
   title="PhD Student"
   role="Advised by Dr. Aditi Sheshadri"
