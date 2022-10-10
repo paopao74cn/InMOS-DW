@@ -1,5 +1,5 @@
 ---
-title: "PhD Position at Stanford University School of Earth"
+title: "[Filled] PhD Position at Stanford University School of Earth"
 date: 2021-08-01
 featured: true
 draft: false

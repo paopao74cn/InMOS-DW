@@ -9,7 +9,7 @@ Atmospheric gravity waves (GWs) play an important role in the exchange of moment
 The DataWave project is focused on improving our modeling capability for gravity waves and the large scale circulation, and particularly to lead to novel observationally constrained and data-driven gravity wave parameterization schemes.
 
 ## Main Objectives
-You can read more about how the tasks were split up on our [research page](https://datawaveproject.github.io/research) and learn about the leaders of each task on our [team page](https://datawaveproject.github.io/team).
+You can read more about how the tasks were split up on our [research page](https://datawaveproject.github.io/background/) and learn about the leaders of each task on our [team page](https://datawaveproject.github.io/team).
 
 #### 1: Observation Database
 The first objective is to make available a potentially transformational data source from Loon LLC with unprecedented, high-resolution observations of atmospheric conditions across thousands of balloon flights.
