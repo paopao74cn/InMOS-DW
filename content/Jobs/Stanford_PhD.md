@@ -14,7 +14,7 @@ featured_image:: "/images/cover/Stanford_square.png"
 <!-- ![logo](/images/cover/Goethe_square.png) -->
 <!-- <a href="/pdfs/PhD_Ulrich.pdf">PDF Here</a> -->
 
-<p>There is an opening for a PhD student to join the research group <i>Atmospheric dynamics, variability, and change</i> at the <a href="https://eddy.stanford.edu/">Stanford School of Earth.</a> to be filled as soon as possible. The focus of the appointment will be to contribute to the DataWave project and the parameterization of gravity waves. <a href="https://earth.stanford.edu/ess/admissions">More information can be found here.</a> </p>
+<p>There is an opening for a PhD student to join the research group <i>Atmospheric dynamics, variability, and change</i> at the <a href="https://eddy.stanford.edu/">Stanford Doerr School of Sustainability.</a> to be filled as soon as possible. The focus of the appointment will be to contribute to the DataWave project and the parameterization of gravity waves. <a href="https://earth.stanford.edu/ess/admissions">More information can be found here.</a> </p>
 </div>
 {{< /rawhtml >}}
 <!--more-->

@@ -177,10 +177,10 @@ description: "Meet the Team"
   {{< Profile_Creator
     imgpath="/images/team/Brian_Green.jpg"
     name="Brian Green"
-    title=""
-    role="Postdoctoral Researcher"
+    title="Postdoctoral Researcher"
+    role=""
     website="https://eddy.stanford.edu/people"
-    institute="Stanford School of Earth"
+    institute="Stanford Doerr School of Sustainability"
     workdesc="Analysis of gravity waves using loon observation data" >}}
 
   <!--  Hamid	Pahlavan  -->
@@ -220,7 +220,7 @@ description: "Meet the Team"
   title="Postdoctoral Researcher "
   role=" "
   website=" https://eddy.stanford.edu/ "
-  institute=" Stanford School of Earth "
+  institute=" Stanford Doerr School of Sustainability "
   workdesc=" Uncertainty quantification and calibration of gravity wave parameterizations " >}}
 
 <!--  Ray Chew  -->
@@ -231,7 +231,7 @@ description: "Meet the Team"
   role=" "
   website=" "
   institute=" Goethe University "
-  workdesc="  " >}}
+  workdesc=" Combining raytracing-based modelling, high-performance numerics, and machine learning methods to improve the representation of gravity waves in numerical weather prediction " >}}
 
 <!--  Aman Gupta  -->
 {{< Profile_Creator  
@@ -240,7 +240,7 @@ description: "Meet the Team"
   title="Postdoctoral Researcher"
   role=" "
   website=" https://eddy.stanford.edu/ "
-  institute=" Stanford School of Earth "
+  institute=" Stanford Doerr School of Sustainability "
   workdesc=" " >}}
 
 {{</ ProfileRegion >}}
@@ -276,7 +276,7 @@ description: "Meet the Team"
   title="PhD Student"
   role="Advised by Dr. Aditi Sheshadri"
   website=" https://eddy.stanford.edu/ "
-  institute=" Stanford School of Earth "
+  institute=" Stanford Doerr School of Sustainability "
   workdesc=" " >}}
 
 <!--  Moein	Darman  -->
@@ -332,7 +332,7 @@ description: "Meet the Team"
   title="  "
   role=" Postdoctoral Researcher "
   website=" https://eddy.stanford.edu/people "
-  institute=" Stanford School of Earth"
+  institute=" Stanford Doerr School of Sustainability"
   workdesc="  " >}}
 
 <!--  Nolan Reilly -->
@@ -407,7 +407,7 @@ description: "Meet the Team"
   title="Project Admin + Research Assistant"
   role=" "
   website="https://eddy.stanford.edu/people"
-  institute=" Stanford School of Earth "
+  institute=" Stanford Doerr School of Sustainability "
   workdesc="Project administrator: organization and planning" >}}
 
 {{</ ProfileRegion >}}
