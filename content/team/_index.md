@@ -219,7 +219,7 @@ description: "Meet the Team"
   name="Laura	Mansfield"
   title="Postdoctoral Researcher "
   role=" "
-  website=" https://eddy.stanford.edu/ "
+  website="https://eddy.stanford.edu/people"
   institute=" Stanford Doerr School of Sustainability "
   workdesc=" Uncertainty quantification and calibration of gravity wave parameterizations " >}}
 
@@ -239,7 +239,7 @@ description: "Meet the Team"
   name="Aman Gupta"
   title="Postdoctoral Researcher"
   role=" "
-  website=" https://eddy.stanford.edu/ "
+  website="https://eddy.stanford.edu/people"
   institute=" Stanford Doerr School of Sustainability "
   workdesc=" " >}}
 
@@ -275,7 +275,7 @@ description: "Meet the Team"
   name="Rob Christopher	King"
   title="PhD Student"
   role="Advised by Dr. Aditi Sheshadri"
-  website=" https://eddy.stanford.edu/ "
+  website="https://eddy.stanford.edu/people"
   institute=" Stanford Doerr School of Sustainability "
   workdesc=" " >}}
 
