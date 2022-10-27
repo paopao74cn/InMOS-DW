@@ -11,4 +11,4 @@ menu: main
 
 Write to us with your questions, comments, and interests. 
 
-{{< form-contact action="https://formspree.io/f/myybqlny"  >}}
+{{< form-contact action="https://formspree.io/f/mpznyozb"  >}}
