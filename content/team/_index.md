@@ -143,16 +143,6 @@ description: "Meet the Team"
       institute="Laboratoire de Meteorologie Dynamique"
       workdesc="Characterizing gravity waves and their interactions with cirrus clouds in the upper troposphere, using superpressure balloon observations and modeling approaches." >}}
 
-<!--  Steven	Hardiman  -->
-  {{<Profile_Creator  
-    imgpath="/images/team/Steven_Hardiman.jpg"
-    name="Steven Hardiman"
-    title="Research Scientist"
-    role="  "
-    website="https://www.metoffice.gov.uk/research/people/steven-hardiman"
-    institute="MetOffice"
-    workdesc="Global scale dynamics and teleconnections" >}}
-
 <!--  Qiang Sun  -->
   {{<Profile_Creator  
     imgpath="/images/team/Qiang_Sun.jpg"
@@ -163,7 +153,17 @@ description: "Meet the Team"
     institute="Rice University"
     workdesc="Gravity wave dynamics, high-resolution numerical simulation and/or prediction for gravity-wave events, and interested in how machine-learning might contribute to a better numerical model." >}}
 
-<!--  Chris Kruse  -->
+<!--  Steven	Hardiman  -->
+  {{<Profile_Creator  
+    imgpath="/images/team/Steven_Hardiman.jpg"
+    name="Steven Hardiman"
+    title="Research Scientist"
+    role="  "
+    website="https://www.metoffice.gov.uk/research/people/steven-hardiman"
+    institute="MetOffice"
+    workdesc="Global scale dynamics and teleconnections" >}}
+    
+<!--  Chris Kruse
   {{<Profile_Creator  
     imgpath="/images/team/Chris_Kruse.jpg"
     name="Chris Kruse"
@@ -171,7 +171,7 @@ description: "Meet the Team"
     role=" "
     website="https://www.nwra.com/people/362/"
     institute="NWRA"
-    workdesc="I have expertise in atmospheric dynamics mountain, meteorology, gravity waves, and parameterization" >}}
+    workdesc="I have expertise in atmospheric dynamics mountain, meteorology, gravity waves, and parameterization" >}} -->
 
 <!--  Brian Green  -->
   {{< Profile_Creator
@@ -229,8 +229,8 @@ description: "Meet the Team"
   name="Ray Chew"
   title="Postdoctoral Researcher"
   role=" "
-  website=" "
-  institute=" Goethe University "
+  website="https://www.goethe-university-frankfurt.de/45681995/Staff"
+  institute="Goethe-Universität Frankfurt"
   workdesc=" Combining raytracing-based modelling, high-performance numerics, and machine learning methods to improve the representation of gravity waves in numerical weather prediction " >}}
 
 <!--  Aman Gupta  -->
@@ -277,7 +277,7 @@ description: "Meet the Team"
   role="Advised by Dr. Aditi Sheshadri"
   website="https://eddy.stanford.edu/people"
   institute=" Stanford Doerr School of Sustainability "
-  workdesc=" " >}}
+  workdesc="Calibration and Uncertainty Quantification for MiMA gravity wave parameterization" >}}
 
 <!--  Moein	Darman  -->
   {{< Profile_Creator  
@@ -289,21 +289,21 @@ description: "Meet the Team"
     institute="Rice University"
     workdesc=" " >}}
 
+<!--  Felix	Jochum  -->
+  {{< Profile_Creator  
+    imgpath="/images/team/Felix_Jochum.jpg"
+    name="Felix Jochum"
+    title="PhD Student"
+    role="Advised by Dr. Ulrich Achatz"
+    website="https://www.goethe-university-frankfurt.de/45681995/Staff"
+    institute="Goethe-Universität Frankfurt"
+    workdesc="Generating high-resolution OGW-resolving simulation results, performance benchmarked against MS-GWaM" >}}
+
 {{</ ProfileRegion >}}
 
 # Collaborators
 
 {{< ProfileRegion >}}
-
-<!--  Ashesh Chattopadhyay  -->
-{{< Profile_Creator  
-    imgpath="/images/team/Ashesh_Chattopadhyay.jpg"
-    name="Ashesh Chattopadhyay"
-    title="PhD Student"
-    role="Advised by Dr. Pedram Hassanzadeh"
-    website=" https://caos.cims.nyu.edu/dynamic/people/postdocs-and-visitors/ "
-    institute=" Rice "
-    workdesc=" The intersection of theoretical deep learning, dynamical systems, and turbulence modeling to improve weather and climate models  " >}}
 
 <!--  Minah	Yang  -->
 {{< Profile_Creator  
@@ -315,16 +315,6 @@ description: "Meet the Team"
   institute=" NYU "
   workdesc=" " >}}
 
-<!--  Martina	Bramberger  -->
-{{< Profile_Creator  
-  imgpath="/images/team/Martina_Bramberger.jpg"
-  name="Martina	Bramberger"
-  title="Postdoctoral Researcher"
-  role=" "
-  website="https://www.nwra.com/people/327/"
-  institute="NorthWest Research Associates"
-  workdesc="Analysis of gravity waves and their momentum flux with observational data" >}}
-
 <!--  Catherine	Wilka  -->
 {{< Profile_Creator  
   imgpath="/images/team/Catherine_Wilka.jpg"
@@ -335,17 +325,37 @@ description: "Meet the Team"
   institute=" Stanford Doerr School of Sustainability"
   workdesc="  " >}}
 
+<!--  Martina	Bramberger  -->
+{{< Profile_Creator  
+  imgpath="/images/team/Martina_Bramberger.jpg"
+  name="Martina	Bramberger"
+  title="Postdoctoral Researcher"
+  role=" "
+  website="https://www.nwra.com/people/327/"
+  institute="NorthWest Research Associates"
+  workdesc="Analysis of gravity waves and their momentum flux with observational data" >}}
+
+<!--  Ashesh Chattopadhyay  -->
+{{< Profile_Creator  
+    imgpath="/images/team/Ashesh_Chattopadhyay.jpg"
+    name="Ashesh Chattopadhyay"
+    title="PhD Student"
+    role="Advised by Dr. Pedram Hassanzadeh"
+    website=" https://caos.cims.nyu.edu/dynamic/people/postdocs-and-visitors/ "
+    institute=" Rice "
+    workdesc=" The intersection of theoretical deep learning, dynamical systems, and turbulence modeling to improve weather and climate models  " >}}
+
 <!--  Nolan Reilly -->
 {{< Profile_Creator  
   imgpath="/images/team/Nolan_Reilly.jpg"
   name="Nolan Reilly"
   title="PhD Student"
-  role="Advised by "
+  role="  "
   website="https://caos.cims.nyu.edu/dynamic/people/phd-students/"
   institute=" NYU "
   workdesc=" " >}}
 
-<!--  Aled Owen  -->
+<!--  Aled Owen  
 {{< Profile_Creator  
   imgpath="/images/team/Aled_Owen.jpg"
   name="Aled Owen"
@@ -353,9 +363,9 @@ description: "Meet the Team"
   role=" "
   website=" https://www.metoffice.gov.uk/ "
   institute=" Met Office "
-  workdesc="  " >}}
+  workdesc="  " >}} -->
 
-<!-- Alison Grimsdell  -->
+<!-- Alison Grimsdell  
   {{<Profile_Creator  
     imgpath="/images/team/Alison_Grimsdell.jpg"
     name="Alison Grimsdell"
@@ -363,9 +373,9 @@ description: "Meet the Team"
     role=" "
     website="https://www.nwra.com/people/144/"
     institute="NWRA"
-    workdesc=" " >}}
+    workdesc=" " >}} -->
 
-<!--  Samantha Adams  -->
+<!--  Samantha Adams 
 {{< Profile_Creator  
   imgpath="/images/team/Samantha_Adams.jpg"
   name="Samantha Adams"
@@ -373,7 +383,7 @@ description: "Meet the Team"
   role=" "
   website="https://www.researchgate.net/profile/Samantha-Adams-4"
   institute=" Met Office "
-  workdesc="  " >}}
+  workdesc="  " >}}  -->
 
 <!--  Albert Hertzog  -->
 {{< Profile_Creator  
@@ -385,7 +395,7 @@ description: "Meet the Team"
     institute=" LMD/IPSL "
     workdesc="  " >}}
 
-<!--  Raj Rani  -->
+<!--  Raj Rani  
 {{< Profile_Creator  
   imgpath="/images/team/Raj_Rani.jpg"
   name="Raj Rani"
@@ -393,7 +403,7 @@ description: "Meet the Team"
   role="  "
   website=" "
   institute=" LMD/IPSL "
-  workdesc=" " >}} 
+  workdesc=" " >}}  -->
 
 {{</ ProfileRegion >}}
 
