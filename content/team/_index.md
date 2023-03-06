@@ -287,7 +287,7 @@ description: "Meet the Team"
     role="Advised by Dr. Pedram Hassanzadeh"
     website="https://pedram.rice.edu/team/"
     institute="Rice University"
-    workdesc=" " >}}
+    workdesc="Subgrid-scale physics parameterization using neural networks, with a particular focus on CNN and FNO" >}}
 
 <!--  Felix	Jochum  -->
   {{< Profile_Creator  
