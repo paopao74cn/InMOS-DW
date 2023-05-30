@@ -14,3 +14,10 @@ There is a growing interest in developing data-driven subgrid-scale (SGS) models
 
 <!--more-->
 Here, using 2D decaying turbulence as the testbed, we show that deep convolutional neural networks (CNNs) can accurately predict the SGS forcing terms and the inter-scale transfers in a priori tests, and if trained with enough samples, lead to stable and accurate a posteriori LES-CNN. Further analysis attributes aforementioned instabilities to the disproportionately lower accuracy of the CNNs in capturing backscattering (anti-diffusion) when the training set is small. We also show that transfer learning, which involves re-training the CNN with a small amount of data (e.g., 1%) from the new flow, enables accurate and stable a posteriori LES-CNN for flows with 16× higher Re (as well as higher grid resolution if needed). These results show the promise of CNNs with transfer learning to provide stable, accurate, and generalizable LES for practical use.
+
+## Highlights:
+1. Better subgrid-scale (SGS) models for large-eddy simulation (LES) are needed.
+2. A deep learning-based, non-local data-driven SGS model is introduced.
+3. This SGS model accurately captures the effect of small-scale structures.
+4. Transfer learning enables the SGS model to extrapolate to more turbulent flows.
+5. Resulting LES model is stable and generalizable with accuracy superior to baseline LES.
