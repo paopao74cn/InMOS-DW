@@ -36,22 +36,22 @@ url = "https://twitter.com/DataWave_VESRI"
 
   [[menu.main]]
       name = "Team"
-      url = "/Team/"
+      url = "/team/"
       weight = 2
 
   [[menu.main]]
       name = "Jobs"
-      url = "/Jobs/"
+      url = "/jobs/"
       weight = 3
 
   [[menu.main]]
       name = "Background"
-      url = "/Background/"
+      url = "/background/"
       weight = 4
 
   [[menu.main]]
       name = "Publications"
-      url = "/Publications/"
+      url = "/publications/"
       weight = 4
 
   #[[menu.footer]]
