@@ -9,6 +9,7 @@
     <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
     <meta name="google-site-verification" content="rnyRL5-16e-sCYI_9VioNwAbf1PbFAhhqgdOUYLHD0U" />
     <!--verifying google analytics-->
+    <meta name="keywords" content="Datawave, gravity waves, machine learning, vesri, schmidt futures, atmosphere, atmospheric modeling, stratospheric balloons, loon, stateole" />
     {{ hugo.Generator }}
     {{/* NOTE: For Production make sure you add `HUGO_ENV="production"` before your build command */}}
     {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
@@ -40,8 +41,6 @@
     {{ end }}
 	{{ block "head" . }}{{ partial "head-additions.html" . }}{{ end }}
   </head>
-  HUGO_ENV="production"
-  <!--trying to turn robots on-->
   <body class="ma0 {{ $.Param "body_classes"  | default "avenir bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
 
     {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
