@@ -40,8 +40,6 @@ jobs:
     # Also specifies the theme we want to use
     - name: Build
       run: hugo --theme=ananke
-      with:
-          HUGO_ENV: "production"
 
     # Step 5 - Create name file
     #- name: Create cname file
