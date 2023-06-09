@@ -272,7 +272,7 @@ description: "Meet the Team"
 <!--  Rob	Christopher King  -->
 {{< Profile_Creator  
   imgpath="/images/team/Rob_King.jpg"
-  name="Rob Christopher	King"
+  name="Robert King"
   title="PhD Student"
   role="Advised by Dr. Aditi Sheshadri"
   website="https://eddy.stanford.edu/people"
