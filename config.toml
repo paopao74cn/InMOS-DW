@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "The DataWave Project"
 theme="ananke"
 googleAnalytics = "G-76NXT956MJ"
-HUGO_ENV="production"
 
 [params]
   # In most cases you will only want to use either one of these. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
@@ -17,10 +16,6 @@ HUGO_ENV="production"
 
 [params.Single]
 #featured_image = '/images/gravity_waves_big.jpg'
-
-[[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/DataWave_VESRI"
 
 [menu]
   # Main Menu
@@ -55,7 +50,22 @@ url = "https://twitter.com/DataWave_VESRI"
       url = "/publications/"
       weight = 4
 
+  [[menu.main]]
+      name = "Blog"
+      url = "/blog/"
+      weight = 5
+
+  [[menu.main]]
+      name = "Data"
+      url = "/data/"
+      weight = 6
+    
+
   #[[menu.footer]]
   #  name = "Contact"
   #  url = "/contact/"
   #    weight = 2
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/DataWave_VESRI"
