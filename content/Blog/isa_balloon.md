@@ -63,3 +63,5 @@ A sonification of the flow time series experienced during the balloon’s flight
 [3] Coy, L., Schoeberl, M. R., Pawson, S., Candido, S., & Carver, R. W. (2019). Global assimilation of Loon stratospheric balloon observations. Journal of Geophysical Research: Atmospheres, 124, 3005– 3019. <a href="https://doi.org/10.1029/2018JD029673">https://doi.org/10.1029/2018JD029673</a></p>
 [4] Tsuda, T. (2014). Characteristics of atmospheric gravity waves observed using the MU (Middle and Upper atmosphere) radar and GPS (Global Positioning System) radio occultation. Proc Jpn Acad Ser B Phys Biol Sci, 90, 12-27. <a href="https://doi.org/10.2183/pjab.90.12">10.2183/pjab.90.12</a></p>
 [5] Anderson, C. Experiments in sonification of EEG signals. <a href="http://www.cs.colostate.edu/eeg">http://www.cs.colostate.edu/eeg</a>
+
+{{< /rawhtml >}}

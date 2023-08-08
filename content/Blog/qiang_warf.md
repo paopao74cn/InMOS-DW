@@ -73,3 +73,5 @@ To overcome all these challenges, we need advancements in computational capabili
 [3] Balaji, V., Couvreux, F., Deshayes, J., Gautrais, J., Hourdin, F., & Rio, C. (2022). Are general circulation models obsolete? Proceedings of the National Academy of Sciences, 119(47), e2202075119. <a href="https://doi.org/10.1073/pnas.2202075119">https://doi.org/10.1073/pnas.2202075119</a></p>
 [4] Kruse, C. G., and Coauthors, 2022: Observed and Modeled Mountain Waves from the Surface to the Mesosphere near the Drake Passage. J. Atmos. Sci., 79, 909–932, <a href="https://doi.org/10.1175/JAS-D-21-0252.1">https://doi.org/10.1175/JAS-D-21-0252.1</a>.</p>
 [5] Sun, Y. Q., Hassanzadeh, P., Alexander, M. J., & Kruse, C. G. (2023). Quantifying 3D gravity wave drag in a library of tropical convection-permitting simulations for data-driven parameterizations. Journal of Advances in Modeling Earth Systems, 15, e2022MS003585. <a href="https://doi.org/10.1029/2022MS003585">https://doi.org/10.1029/2022MS003585</a>
+
+{{< /rawhtml >}}
