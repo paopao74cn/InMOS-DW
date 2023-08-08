@@ -1,5 +1,5 @@
 ---
-title: "PhD and PostDoc at Rice University"
+title: "[Filled] PhD and PostDoc at Rice University"
 date: 2022-10-01 
 featured: true
 draft: false
