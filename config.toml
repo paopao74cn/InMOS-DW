@@ -1,6 +1,6 @@
 baseURL = "http://datawaveproject.github.io/"
 languageCode = "en-us"
-title = "The DataWave Project"
+title = "The DataWave Blog"
 theme="ananke"
 googleAnalytics = "G-76NXT956MJ"
 
