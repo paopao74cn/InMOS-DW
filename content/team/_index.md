@@ -335,15 +335,15 @@ description: "Meet the Team"
   institute="NorthWest Research Associates"
   workdesc="Analysis of gravity waves and their momentum flux with observational data" >}}
 
-<!--  Ashesh Chattopadhyay  -->
+<!--  Milena	Corcos  -->
 {{< Profile_Creator  
-    imgpath="/images/team/Ashesh_Chattopadhyay.jpg"
-    name="Ashesh Chattopadhyay"
-    title="PhD Student"
-    role="Advised by Dr. Pedram Hassanzadeh"
-    website=" https://caos.cims.nyu.edu/dynamic/people/postdocs-and-visitors/ "
-    institute=" Rice "
-    workdesc=" The intersection of theoretical deep learning, dynamical systems, and turbulence modeling to improve weather and climate models  " >}}
+  imgpath="/images/team/Milena_Corcos.jpg"
+  name="Milena	Corcos"
+  title="Postdoctoral Researcher"
+  role=" "
+  website="https://www.nwra.com/people/371/"
+  institute="NorthWest Research Associates"
+  workdesc="WRF simulations validation with the Stratéole-2 balloons" >}}
 
 <!--  Nolan Reilly -->
 {{< Profile_Creator  
@@ -383,9 +383,9 @@ description: "Meet the Team"
   role=" "
   website="https://www.researchgate.net/profile/Samantha-Adams-4"
   institute=" Met Office "
-  workdesc="  " >}}  -->
+  workdesc="  " >}}
 
-<!--  Albert Hertzog  -->
+<!--  Albert Hertzog
 {{< Profile_Creator  
     imgpath="/images/team/Albert_Hertzog.jpg"
     name="Albert Hertzog"
@@ -403,7 +403,19 @@ description: "Meet the Team"
   role="  "
   website=" "
   institute=" LMD/IPSL "
-  workdesc=" " >}}  -->
+  workdesc=" " >}}  
+  
+  Ashesh Chattopadhyay
+{{< Profile_Creator  
+    imgpath="/images/team/Ashesh_Chattopadhyay.jpg"
+    name="Ashesh Chattopadhyay"
+    title="PhD Student"
+    role="Advised by Dr. Pedram Hassanzadeh"
+    website=" https://caos.cims.nyu.edu/dynamic/people/postdocs-and-visitors/ "
+    institute=" Rice "
+    workdesc=" The intersection of theoretical deep learning, dynamical systems, and turbulence modeling to improve weather and climate models  " >}}
+    
+    -->
 
 {{</ ProfileRegion >}}
 
