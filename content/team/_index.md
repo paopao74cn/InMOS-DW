@@ -32,8 +32,8 @@ description: "Meet the Team"
       name="Claudia Stephan "
       title="Head of Task 2"
       role="High-resolution Model Simulations of Gravity Waves"
-      website="https://mpimet.mpg.de/en/staff/claudia-stephan"
-      institute="Group Leader, Max Planck Institute for Meteorology"
+      website="https://www.iap-kborn.de/home/"
+      institute="Prof., Leibniz Institute of Atmospheric Physics"
       workdesc="High-resolution model simulations with the ICON model to study the generation of gravity waves by orographic and convective sources, and their three-dimensional resolved propagation through the atmosphere." >}}
 
 <!-- name="Ulrich Achatz" -->
@@ -53,7 +53,7 @@ description: "Meet the Team"
       title="Co-Head of Task 4"
       role=" Machine Learning-based Parameterization of Gravity Waves "
       website="http://pedram.rice.edu/director/"
-      institute="Assistant Prof., Rice University"
+      institute="Assistant Prof., University of Chicago"
       workdesc="Turbulent flows using numerical, mathematical, statistical, and machine learning methods, guided by observational and experimental data." >}}
 
 <!-- name="Alberto Arribas" -->
@@ -203,15 +203,15 @@ description: "Meet the Team"
     institute="NYU"
     workdesc="Geophysical Fluid Dynamics" >}}
 
- <!--  Laura Köhler  -->
+ <!--  Yanmichel Morfa  -->
  {{< Profile_Creator  
-    imgpath="/images/team/Laura_Kohler.jpg"
-    name="Laura Köhler"
+    imgpath="/images/team/Raj_Rani.jpg"
+    name="Yanmichel Morfa-Avalos"
     title="Postdoctoral Researcher"
     role=""
-    website="https://mpimet.mpg.de/en/science/independent-research-groups/cloud-wave-coupling"
-    institute="MPI"
-    workdesc="High-resolution global ICON simulations for training and assessing ML approaches on GW, comparison of superpressure balloon data with the models." >}}
+    website="https://www.iap-kborn.de/home/"
+    institute="Leibniz Institute of Atmospheric Physics"
+    workdesc="" >}}
 
 <!--  Laura	Mansfield  -->
 {{< Profile_Creator  
@@ -354,6 +354,16 @@ description: "Meet the Team"
   website="https://caos.cims.nyu.edu/dynamic/people/phd-students/"
   institute=" NYU "
   workdesc=" " >}}
+
+ <!--  Laura Köhler  
+ {{< Profile_Creator  
+    imgpath="/images/team/Laura_Kohler.jpg"
+    name="Laura Köhler"
+    title="Postdoctoral Researcher"
+    role=""
+    website="https://mpimet.mpg.de/en/science/independent-research-groups/cloud-wave-coupling"
+    institute="MPI"
+    workdesc="High-resolution global ICON simulations for training and assessing ML approaches on GW, comparison of superpressure balloon data with the models." >}} -->
 
 <!--  Aled Owen  
 {{< Profile_Creator  
