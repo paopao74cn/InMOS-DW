@@ -23,7 +23,7 @@ Within the project we aim to improve the understanding of relevant multiscale pr
 <!--more-->
 This shall be done within the weather and climate code ICON. For this purpose, the new multi-scale and Lagrangian gravity-wave model MS-GWaM, already implemented and running in ICON, shall be developed further, using theoretical considerations and numerical methods. Once adapted, ICON/MS-GWaM is to be used for studying the gravity-wave impact on residual circulation and mixing. Further inputs on the development of the theory and numerics of MS-GWaM would be most welcome, e.g. with regard to gravity-wave sources.
 
-### Employment conditions
+### Employment conditions:
 The salary grade is based on the job characteristics of the collective agreement (TV-G-U) applicable to the Goethe University. This call stays opened after its initial deadline December 10, 2023.
 
 ### Qualifications:
