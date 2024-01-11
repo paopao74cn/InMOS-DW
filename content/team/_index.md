@@ -205,13 +205,13 @@ description: "Meet the Team"
 
  <!--  Yanmichel Morfa  -->
  {{< Profile_Creator  
-    imgpath="/images/team/Raj_Rani.jpg"
+    imgpath="/images/team/Yanmichel_Morfa.jpg"
     name="Yanmichel Morfa-Avalos"
     title="Postdoctoral Researcher"
     role=""
     website="https://www.iap-kborn.de/home/"
     institute="Leibniz Institute of Atmospheric Physics"
-    workdesc="" >}}
+    workdesc="Gravity wave dynamics and energy transfers across scales in high‐resolution global models" >}}
 
 <!--  Laura	Mansfield  -->
 {{< Profile_Creator  
