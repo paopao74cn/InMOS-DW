@@ -3,7 +3,7 @@ title: "PhD Position at Stanford University"
 date: 2023-08-01
 featured: true
 draft: false
-weight: 1
+weight: 2
 location: "Palo Alto, California"
 featured_image:: "/images/cover/Stanford_square.png"
 ---

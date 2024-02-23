@@ -3,7 +3,7 @@ title: "PhD / PostDoc / Research Assistant Positions at Rice University"
 date: 2023-11-15
 featured: true
 draft: false
-weight: 1
+weight: 2
 location: "Chicago, IL (USA)"
 featured_image:: "/Jobs/images/Chicago_square.png"
 ---
